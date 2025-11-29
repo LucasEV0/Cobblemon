@@ -1,0 +1,64 @@
+{
+  "uuid": "67e1a190-fc1d-3771-969c-217216caf553",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "f1549e85-28b6-4f8a-9a98-b4608d7de1f5",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 7,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 10,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 10,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 2,
+    "totalTypeCaptureCounts": {
+      "normal": 4,
+      "psychic": 1,
+      "flying": 2,
+      "grass": 1,
+      "poison": 1,
+      "dark": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:sentret": 1,
+      "cobblemon:ditto": 1,
+      "cobblemon:roselia": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:zigzagoon": [
+        "female"
+      ],
+      "cobblemon:woobat": [
+        "male"
+      ],
+      "cobblemon:buneary": [
+        "male"
+      ],
+      "cobblemon:sentret": [
+        "male"
+      ],
+      "cobblemon:furret": [
+        "male"
+      ],
+      "cobblemon:budew": [
+        "male"
+      ],
+      "cobblemon:torracat": [
+        "male"
+      ],
+      "cobblemon:nickit": [
+        "female"
+      ],
+      "cobblemon:fletchling": [
+        "male"
+      ]
+    }
+  }
+}
