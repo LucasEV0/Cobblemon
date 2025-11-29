@@ -1,0 +1,234 @@
+{
+  "modpackName": "",
+  "automodpackVersion": "4.0.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.215",
+  "mcVersion": "1.21.1",
+  "list": [
+    {
+      "file": "/mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "size": "15020578",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "6f5395f58139802edfde7cb9170279f92f291971",
+      "murmur": "527531260"
+    },
+    {
+      "file": "/mods/geckolib-neoforge-1.21.1-4.8.2.jar",
+      "size": "621848",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a",
+      "murmur": "3889528132"
+    },
+    {
+      "file": "/mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar",
+      "size": "1078973",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c2b288a7fa9ae595e3fa9cc7deee56306474e300",
+      "murmur": "3994465110"
+    },
+    {
+      "file": "/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "size": "78451",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b03d05495be28d8cef7a34872941bb8d703d60e6",
+      "murmur": "3206533594"
+    },
+    {
+      "file": "/mods/LegendaryMonuments-7.4.jar",
+      "size": "13801726",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "abd360624ffcff9ef3e728127902062446aa0b09",
+      "murmur": "337199022"
+    },
+    {
+      "file": "/mods/mega_showdown-neoforge-1.4.1+1.7+1.21.1.jar",
+      "size": "15910103",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "8894a124803a3ad9511d1809644380ef548e4298",
+      "murmur": "4209725779"
+    },
+    {
+      "file": "/mods/CobbleFurnies-neoforge-0.6.3.jar",
+      "size": "1634521",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "a1e22e0ec92f0d0e30aaa7101d196b88e4dd1c43",
+      "murmur": "346179268"
+    },
+    {
+      "file": "/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "size": "63981",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b044c51d00d60b5645a0c0890812935cd933555f",
+      "murmur": "3962119445"
+    },
+    {
+      "file": "/mods/kotlinforforge-5.10.0-all.jar",
+      "size": "6730190",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "a86a436cb7ffd0509750ba7b078fe88143da1ea6",
+      "murmur": "2628537430"
+    },
+    {
+      "file": "/mods/create-1.21.1-6.0.8.jar",
+      "size": "19001557",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "eee603ac7b083c9cd3a8ded4d4e3ed1a9a836f96",
+      "murmur": "1522259746"
+    },
+    {
+      "file": "/mods/backpacks-1.0.3.jar",
+      "size": "218653",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "5c97946baf43c28894115c9f9de7d5ebc3779b6a",
+      "murmur": "1312993226"
+    },
+    {
+      "file": "/mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar",
+      "size": "5578066",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f98335548ab3d6592912535c5703f18ab153c10d",
+      "murmur": "4165732076"
+    },
+    {
+      "file": "/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "size": "484332",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+      "murmur": "539815838"
+    },
+    {
+      "file": "/mods/architectury-13.0.8-neoforge.jar",
+      "size": "584004",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "murmur": "418634412"
+    },
+    {
+      "file": "/mods/Cobblemon-neoforge-1.7.1+1.21.1.jar",
+      "size": "123744060",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "8135b55ab1ae2aaaaf6f44883a757f7c5aee3420",
+      "murmur": "2137274582"
+    },
+    {
+      "file": "/mods/connector-2.0.0-beta.12+1.21.1-full.jar",
+      "size": "4528520",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b835ddbf29090a67271879789a395f2c502ca269",
+      "murmur": "783416492"
+    },
+    {
+      "file": "/mods/MythsAndLegends-neoforge-1.9.0.jar",
+      "size": "3254096",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b90873d4a478753d099e641d7f1b7649c360e868",
+      "murmur": "1992870440"
+    },
+    {
+      "file": "/mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "size": "432269",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "murmur": "1526633991"
+    },
+    {
+      "file": "/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "size": "1221583",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
+      "murmur": "990455198"
+    },
+    {
+      "file": "/mods/createcobblemonballsoverhaul-0.0.3.jar",
+      "size": "335133",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "83e1ed125db06c0166784b57dd12fd397d8e04c4",
+      "murmur": "1757704933"
+    },
+    {
+      "file": "/mods/skinrestorer-2.4.3+1.21-neoforge.jar",
+      "size": "187473",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b8a963a0659129b4957048738818cd49f88e722a",
+      "murmur": "2271544156"
+    },
+    {
+      "file": "/mods/trinkets-3.10.0.jar",
+      "size": "272944",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f54756f938c7c273713b9f97d4a987eec551e892",
+      "murmur": "1163983694"
+    },
+    {
+      "file": "/mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "size": "410690",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "murmur": "933317947"
+    },
+    {
+      "file": "/mods/athena-neoforge-1.21-4.0.2.jar",
+      "size": "92698",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "069f397f1b3a30b3d5f5a98cac76304dfe345d76",
+      "murmur": "2534472933"
+    },
+    {
+      "file": "/mods/accessories_compat_layer-neoforge-0.1.10+1.21.1.jar",
+      "size": "376256",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "81075dd9ba87a5e2814548e9e3ab20001f0a06de",
+      "murmur": "567143245"
+    }
+  ]
+}
