@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 24,
+    "totalCaptureCount": 28,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 74,
+    "totalBattleVictoryCount": 82,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 72,
+    "totalPvWBattleVictoryCount": 80,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -25,13 +25,14 @@
       "flying": 4,
       "bug": 4,
       "fighting": 2,
-      "psychic": 3,
-      "normal": 4,
+      "psychic": 4,
+      "normal": 6,
       "poison": 2,
       "ghost": 3,
       "rock": 2,
       "steel": 1,
-      "fire": 1
+      "fire": 1,
+      "fairy": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:rhyhorn": 1,
@@ -52,8 +53,8 @@
       "cobblemon:bouffalant": 12,
       "cobblemon:miltank": 4,
       "cobblemon:nuzleaf": 1,
-      "cobblemon:rattata": 1,
-      "cobblemon:diggersby": 2,
+      "cobblemon:rattata": 2,
+      "cobblemon:diggersby": 3,
       "cobblemon:mareep": 2,
       "cobblemon:furret": 1,
       "cobblemon:darumaka": 1,
@@ -63,7 +64,9 @@
       "cobblemon:tauros": 1,
       "cobblemon:raboot": 1,
       "cobblemon:cutiefly": 1,
-      "cobblemon:lickilicky": 1
+      "cobblemon:lickilicky": 1,
+      "cobblemon:sneasler": 1,
+      "cobblemon:vespiquen": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -182,6 +185,16 @@
       ],
       "cobblemon:ditto": [
         "genderless"
+      ],
+      "cobblemon:duosion": [
+        "female"
+      ],
+      "cobblemon:yungoos": [
+        "male"
+      ],
+      "cobblemon:flabebe": [
+        "female",
+        "flower-white"
       ]
     }
   }
