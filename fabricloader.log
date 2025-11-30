@@ -1,0 +1,4 @@
+[11:01:58] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[11:01:58] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE legendarymonuments 7.4 {depends accessories_compat_layer @ [*]}, ROOT_FORCELOAD_SINGLE legendarymonuments 7.4]
+[11:01:58] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP legendarymonuments 7.4 {depends accessories_compat_layer @ [*]}]
+[11:01:58] [INFO] [FabricLoader/Resolution]: Fix: add [add:accessories_compat_layer 1 ([(-∞,∞)])], remove [], replace []

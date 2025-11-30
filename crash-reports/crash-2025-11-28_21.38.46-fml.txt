@@ -1,0 +1,108 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 2025-11-28 21:38:46
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: cobblemon --
+Details:
+	Mod file: /C:/Users/sharp/.vscode/repos/Cobblemon/mods/Cobblemon-neoforge-1.7.0+1.21.1.jar.jar
+	Failure message: Cobblemon (cobblemon) is missing a feature it requires to run
+		It requires javaVersion 21 or above, and below 21.999999 but 23.0.1 is available
+	Mod version: 1.7.0+1.21.1
+	Mod issues URL: https://gitlab.com/cable-mc/cobblemon/-/issues
+	Exception message: <No associated exception found>
+
+-- Cobblemon --
+Details:
+	Version: 1.7.0
+	Is Snapshot: false
+	Git Commit: e983d2c (https://gitlab.com/cable-mc/cobblemon/-/commit/e983d2c1dbd783b171dba33d38481177a45bca7e)
+	Branch: HEAD
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 23.0.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 182397816 bytes (173 MiB) / 698351616 bytes (666 MiB) up to 4127195136 bytes (3936 MiB)
+	CPUs: 12
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 4600G with Radeon Graphics
+	Identifier: AuthenticAMD Family 23 Model 96 Stepping 1
+	Microarchitecture: unknown
+	Frequency (GHz): 3.69
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: AMD Radeon(TM) Graphics
+	Graphics card #0 vendor: Advanced Micro Devices, Inc.
+	Graphics card #0 VRAM (MiB): 512.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 31.0.21923.11000
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.60
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.60
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 26492.02
+	Virtual memory used (MiB): 19178.40
+	Swap memory total (MiB): 10752.00
+	Swap memory used (MiB): 1237.34
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 90076.08, total: 487525.00
+	Space in storage for workdir (MiB): available: 90076.08, total: 487525.00
+	JVM Flags: 0 total; 
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeserver
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.42.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.42.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.42.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		kotlinforforge@5.10.0
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		accessories-neoforge-1.1.0-beta.52+1.21.1.jar     |Accessories                   |accessories                   |1.1.0-beta.52+1.21.1|Manifest: NOSIGNATURE
+		architectury-13.0.8-neoforge.jar                  |Architectury                  |architectury                  |13.0.8              |Manifest: NOSIGNATURE
+		backpacks-1.0.3.jar                               |Backpacks                     |backpacks                     |1.0.3               |Manifest: NOSIGNATURE
+		Cobblemon-neoforge-1.7.0+1.21.1.jar.jar           |Cobblemon                     |cobblemon                     |1.7.0+1.21.1        |Manifest: NOSIGNATURE
+		mega_showdown-neoforge-1.3+1.7+1.21.1.jar         |Cobblemon:Mega Showdown       |mega_showdown                 |1.3+1.7+1.21.1      |Manifest: NOSIGNATURE
+		coroutil-neoforge-1.21.0-1.3.8.jar                |CoroUtil                      |coroutil                      |1.21.0-1.3.8        |Manifest: NOSIGNATURE
+		create-1.21.1-6.0.8.jar                           |Create                        |create                        |6.0.8               |Manifest: NOSIGNATURE
+		createcobblemonballsoverhaul-0.0.3.jar            |Create Cobblemon Balls Overhau|createmonballsoverhaul        |0.0.1               |Manifest: NOSIGNATURE
+		curios-neoforge-9.5.1+1.21.1.jar                  |Curios API                    |curios                        |9.5.1+1.21.1        |Manifest: NOSIGNATURE
+		flywheel-neoforge-1.21.1-1.0.5.jar                |Flywheel                      |flywheel                      |1.0.5               |Manifest: NOSIGNATURE
+		fabric-api-base-0.4.42+d1308dedd1.jar             |Forgified Fabric API Base     |fabric_api_base               |0.4.42+d1308dedd1   |Manifest: NOSIGNATURE
+		fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar    |Forgified Fabric BlockView API|fabric_block_view_api_v2      |1.0.10+9afaaf8c19   |Manifest: NOSIGNATURE
+		fabric-renderer-api-v1-3.4.0+9c40919e19.jar       |Forgified Fabric Renderer API |fabric_renderer_api_v1        |3.4.0+9c40919e19    |Manifest: NOSIGNATURE
+		fabric-rendering-data-attachment-v1-0.3.48+73761d2|Forgified Fabric Rendering Dat|fabric_rendering_data_attachme|0.3.48+73761d2e19   |Manifest: NOSIGNATURE
+		jei-1.21.1-neoforge-19.25.1.332.jar               |Just Enough Items             |jei                           |19.25.1.332         |Manifest: NOSIGNATURE
+		thedarkcolour.kffmod-5.10.0.jar                   |Kotlin For Forge              |kotlinforforge                |5.10.0              |Manifest: NOSIGNATURE
+		server-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: NOSIGNATURE
+		neoforge-21.1.215-universal.jar                   |NeoForge                      |neoforge                      |21.1.215            |Manifest: NOSIGNATURE
+		owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar        |oωo                           |owo                           |0.12.15.5-beta.1+1.2|Manifest: NOSIGNATURE
+		Ponder-NeoForge-1.21.1-1.0.64.jar                 |Ponder                        |ponder                        |1.0.64              |Manifest: NOSIGNATURE
+		reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar |Reese's Sodium Options        |reeses_sodium_options         |1.8.3+mc1.21.4      |Manifest: NOSIGNATURE
+		sodium-neoforge-0.6.13+mc1.21.1.jar               |Sodium                        |sodium                        |0.6.13+mc1.21.1     |Manifest: NOSIGNATURE
+		sodium-extra-neoforge-0.6.0+mc1.21.1.jar          |Sodium Extra                  |sodium_extra                  |0.6.0+mc1.21.1      |Manifest: NOSIGNATURE
+		watut-neoforge-1.21.0-1.2.7.jar                   |What Are They Up To           |watut                         |1.21.0-1.2.7        |Manifest: NOSIGNATURE
+		Xaeros_Minimap_25.2.10_NeoForge_1.21.jar          |Xaero's Minimap               |xaerominimap                  |25.2.10             |Manifest: NOSIGNATURE
+		XaerosWorldMap_1.39.12_NeoForge_1.21.jar          |Xaero's World Map             |xaeroworldmap                 |1.39.12             |Manifest: NOSIGNATURE
