@@ -8,31 +8,32 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 28,
+    "totalCaptureCount": 36,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 82,
+    "totalBattleVictoryCount": 107,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 80,
+    "totalPvWBattleVictoryCount": 105,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "water": 1,
       "grass": 5,
-      "ground": 2,
+      "ground": 3,
       "flying": 4,
-      "bug": 4,
+      "bug": 5,
       "fighting": 2,
-      "psychic": 4,
+      "psychic": 5,
       "normal": 6,
       "poison": 2,
-      "ghost": 3,
+      "ghost": 4,
       "rock": 2,
-      "steel": 1,
-      "fire": 1,
-      "fairy": 1
+      "steel": 2,
+      "fire": 5,
+      "fairy": 1,
+      "electric": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:rhyhorn": 1,
@@ -50,23 +51,28 @@
       "cobblemon:bunnelby": 1,
       "cobblemon:zigzagoon": 1,
       "cobblemon:liepard": 1,
-      "cobblemon:bouffalant": 12,
-      "cobblemon:miltank": 4,
+      "cobblemon:bouffalant": 16,
+      "cobblemon:miltank": 7,
       "cobblemon:nuzleaf": 1,
-      "cobblemon:rattata": 2,
-      "cobblemon:diggersby": 3,
+      "cobblemon:rattata": 3,
+      "cobblemon:diggersby": 4,
       "cobblemon:mareep": 2,
       "cobblemon:furret": 1,
       "cobblemon:darumaka": 1,
       "cobblemon:farfetchd": 1,
-      "cobblemon:lechonk": 1,
+      "cobblemon:lechonk": 2,
       "cobblemon:dubwool": 1,
-      "cobblemon:tauros": 1,
+      "cobblemon:tauros": 3,
       "cobblemon:raboot": 1,
       "cobblemon:cutiefly": 1,
       "cobblemon:lickilicky": 1,
       "cobblemon:sneasler": 1,
-      "cobblemon:vespiquen": 1
+      "cobblemon:vespiquen": 1,
+      "cobblemon:pidgeot": 1,
+      "cobblemon:oinkologne": 1,
+      "cobblemon:sawsbuck": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:swellow": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -195,6 +201,28 @@
       "cobblemon:flabebe": [
         "female",
         "flower-white"
+      ],
+      "cobblemon:plusle": [
+        "female"
+      ],
+      "cobblemon:vulpix": [
+        "female"
+      ],
+      "cobblemon:minun": [
+        "female"
+      ],
+      "cobblemon:marowak": [
+        "female",
+        "alolan"
+      ],
+      "cobblemon:sizzlipede": [
+        "male"
+      ],
+      "cobblemon:excadrill": [
+        "female"
+      ],
+      "cobblemon:cyndaquil": [
+        "male"
       ]
     }
   }

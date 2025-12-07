@@ -1,46 +1,26 @@
-[30nov2025 00:02:15.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Luy'/30417, l='ServerLevel[world]', x=-78.01, y=126.00, z=1074.00, removed=DISCARDED] wasn't found in section SectionPos{x=-5, y=7, z=67} (destroying due to DISCARDED)
-[30nov2025 00:02:55.240] [Netty Server IO #11/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Sali
-[30nov2025 00:02:55.241] [Netty Server IO #11/INFO] [legendarymonuments/]: Player Sali disconnected, saving their progress data
-[30nov2025 00:02:55.263] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Sali
-[30nov2025 00:02:55.263] [Server thread/INFO] [legendarymonuments/]: Player Sali disconnected, saving their progress data
-[30nov2025 00:02:55.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sali lost connection: Disconnected
-[30nov2025 00:02:55.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sali left the game
-[30nov2025 00:12:21.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/31370, l='ServerLevel[world]', x=-150.41, y=116.00, z=1088.69, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=7, z=68} (destroying due to DISCARDED)
-[30nov2025 00:30:10.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DangerCreeper17 moved too quickly! 0.021111751954634883,-1.4554677395850177,-10.121862223640846
-[30nov2025 01:01:19.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Saitama'/44064, l='ServerLevel[world]', x=-83.82, y=125.00, z=1068.56] died: Saitama was blown up by Creeper
-[30nov2025 01:01:22.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/44064, l='ServerLevel[world]', x=-86.58, y=125.00, z=1069.65, removed=KILLED] wasn't found in section SectionPos{x=-6, y=7, z=66} (destroying due to DISCARDED)
-[30nov2025 01:22:01.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/49129, l='ServerLevel[world]', x=-176.74, y=120.00, z=1070.85, removed=DISCARDED] wasn't found in section SectionPos{x=-12, y=7, z=66} (destroying due to DISCARDED)
-[30nov2025 01:22:06.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/49153, l='ServerLevel[world]', x=-169.68, y=119.00, z=1077.29, removed=DISCARDED] wasn't found in section SectionPos{x=-11, y=7, z=67} (destroying due to DISCARDED)
-[30nov2025 01:33:27.671] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/49154, l='ServerLevel[world]', x=-98.75, y=125.00, z=1073.44, removed=DISCARDED] wasn't found in section SectionPos{x=-7, y=7, z=67} (destroying due to DISCARDED)
-[30nov2025 01:36:31.104] [Netty Server IO #20/INFO] [legendarymonuments/]: Triggered save for disconnecting player: DangerCreeper17
-[30nov2025 01:36:31.105] [Netty Server IO #20/INFO] [legendarymonuments/]: Player DangerCreeper17 disconnected, saving their progress data
-[30nov2025 01:36:31.112] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: DangerCreeper17
-[30nov2025 01:36:31.112] [Server thread/INFO] [legendarymonuments/]: Player DangerCreeper17 disconnected, saving their progress data
-[30nov2025 01:36:31.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DangerCreeper17 lost connection: Disconnected
-[30nov2025 01:36:31.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DangerCreeper17 left the game
-[30nov2025 02:41:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Server stopping, performing final save of all key items data...
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:overworld
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_end
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_nether
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:distortion_world
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:hall_of_origin_world
-[30nov2025 02:41:36.555] [Server thread/INFO] [legendarymonuments/]: Server stopping, saving all player progress data and shutting down trackers
-[30nov2025 02:41:36.555] [Server thread/INFO] [legendarymonuments/]: Shutting down ShrineTracker...
-[30nov2025 02:41:36.557] [Server thread/INFO] [legendarymonuments/]: ShrineTracker shutdown complete
-[30nov2025 02:41:36.558] [Server thread/INFO] [legendarymonuments/]: Shutting down FootprintTracker...
-[30nov2025 02:41:36.560] [Server thread/INFO] [legendarymonuments/]: FootprintTracker shutdown complete
-[30nov2025 02:41:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30nov2025 02:41:36.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30nov2025 02:41:36.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30nov2025 02:41:36.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30nov2025 02:41:36.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30nov2025 02:41:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30nov2025 02:41:36.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:distortion_world
-[30nov2025 02:41:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:hall_of_origin_world
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (distortion_world): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hall_of_origin_world): All chunks are saved
-[30nov2025 02:41:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07dic2025 08:12:55.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07dic2025 08:12:55.329] [Server thread/INFO] [legendarymonuments/]: Server stopping, performing final save of all key items data...
+[07dic2025 08:12:55.330] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:overworld
+[07dic2025 08:12:55.330] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_nether
+[07dic2025 08:12:55.331] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:distortion_world
+[07dic2025 08:12:55.331] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:hall_of_origin_world
+[07dic2025 08:12:55.332] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_end
+[07dic2025 08:12:55.435] [Server thread/INFO] [legendarymonuments/]: Server stopping, saving all player progress data and shutting down trackers
+[07dic2025 08:12:55.436] [Server thread/INFO] [legendarymonuments/]: Shutting down ShrineTracker...
+[07dic2025 08:12:55.439] [Server thread/INFO] [legendarymonuments/]: ShrineTracker shutdown complete
+[07dic2025 08:12:55.439] [Server thread/INFO] [legendarymonuments/]: Shutting down FootprintTracker...
+[07dic2025 08:12:55.444] [Server thread/INFO] [legendarymonuments/]: FootprintTracker shutdown complete
+[07dic2025 08:12:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07dic2025 08:12:55.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07dic2025 08:12:55.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07dic2025 08:12:55.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07dic2025 08:12:55.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07dic2025 08:12:55.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:distortion_world
+[07dic2025 08:12:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:hall_of_origin_world
+[07dic2025 08:12:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07dic2025 08:12:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07dic2025 08:12:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07dic2025 08:12:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (distortion_world): All chunks are saved
+[07dic2025 08:12:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hall_of_origin_world): All chunks are saved
+[07dic2025 08:12:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07dic2025 08:12:55.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
