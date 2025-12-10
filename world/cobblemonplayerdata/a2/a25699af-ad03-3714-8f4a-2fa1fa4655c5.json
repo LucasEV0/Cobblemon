@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 37,
+    "totalCaptureCount": 41,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 63,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 67,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 63,
+    "totalPvWBattleVictoryCount": 67,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -24,14 +24,14 @@
       "water": 3,
       "bug": 5,
       "poison": 6,
-      "grass": 5,
+      "grass": 7,
       "electric": 3,
-      "normal": 12,
+      "normal": 13,
       "flying": 5,
       "ground": 2,
       "fairy": 2,
-      "steel": 1,
-      "ghost": 4,
+      "steel": 2,
+      "ghost": 5,
       "psychic": 1,
       "fighting": 2
     },
@@ -165,6 +165,21 @@
         "female"
       ],
       "cobblemon:dusclops": [
+        "female"
+      ],
+      "cobblemon:roserade": [
+        "male"
+      ],
+      "cobblemon:zigzagoon": [
+        "male"
+      ],
+      "cobblemon:lurantis": [
+        "female"
+      ],
+      "cobblemon:bramblin": [
+        "female"
+      ],
+      "cobblemon:orthworm": [
         "female"
       ]
     }
