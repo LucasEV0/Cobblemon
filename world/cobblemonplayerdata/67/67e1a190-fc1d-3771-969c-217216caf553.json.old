@@ -8,21 +8,21 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 15,
+    "totalCaptureCount": 17,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 19,
+    "totalBattleVictoryCount": 21,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 19,
+    "totalPvWBattleVictoryCount": 21,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 2,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "normal": 6,
       "psychic": 1,
       "flying": 2,
-      "grass": 1,
+      "grass": 3,
       "poison": 1,
       "dark": 2,
       "water": 1,
@@ -83,6 +83,15 @@
       ],
       "cobblemon:minun": [
         "female"
+      ],
+      "cobblemon:fomantis": [
+        "female"
+      ],
+      "cobblemon:shroomish": [
+        "female"
+      ],
+      "cobblemon:cyclizar": [
+        "male"
       ]
     }
   }

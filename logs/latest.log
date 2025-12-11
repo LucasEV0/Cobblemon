@@ -1,46 +1,676 @@
-[30nov2025 00:02:15.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Luy'/30417, l='ServerLevel[world]', x=-78.01, y=126.00, z=1074.00, removed=DISCARDED] wasn't found in section SectionPos{x=-5, y=7, z=67} (destroying due to DISCARDED)
-[30nov2025 00:02:55.240] [Netty Server IO #11/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Sali
-[30nov2025 00:02:55.241] [Netty Server IO #11/INFO] [legendarymonuments/]: Player Sali disconnected, saving their progress data
-[30nov2025 00:02:55.263] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Sali
-[30nov2025 00:02:55.263] [Server thread/INFO] [legendarymonuments/]: Player Sali disconnected, saving their progress data
-[30nov2025 00:02:55.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sali lost connection: Disconnected
-[30nov2025 00:02:55.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sali left the game
-[30nov2025 00:12:21.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/31370, l='ServerLevel[world]', x=-150.41, y=116.00, z=1088.69, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=7, z=68} (destroying due to DISCARDED)
-[30nov2025 00:30:10.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DangerCreeper17 moved too quickly! 0.021111751954634883,-1.4554677395850177,-10.121862223640846
-[30nov2025 01:01:19.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Saitama'/44064, l='ServerLevel[world]', x=-83.82, y=125.00, z=1068.56] died: Saitama was blown up by Creeper
-[30nov2025 01:01:22.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/44064, l='ServerLevel[world]', x=-86.58, y=125.00, z=1069.65, removed=KILLED] wasn't found in section SectionPos{x=-6, y=7, z=66} (destroying due to DISCARDED)
-[30nov2025 01:22:01.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/49129, l='ServerLevel[world]', x=-176.74, y=120.00, z=1070.85, removed=DISCARDED] wasn't found in section SectionPos{x=-12, y=7, z=66} (destroying due to DISCARDED)
-[30nov2025 01:22:06.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/49153, l='ServerLevel[world]', x=-169.68, y=119.00, z=1077.29, removed=DISCARDED] wasn't found in section SectionPos{x=-11, y=7, z=67} (destroying due to DISCARDED)
-[30nov2025 01:33:27.671] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/49154, l='ServerLevel[world]', x=-98.75, y=125.00, z=1073.44, removed=DISCARDED] wasn't found in section SectionPos{x=-7, y=7, z=67} (destroying due to DISCARDED)
-[30nov2025 01:36:31.104] [Netty Server IO #20/INFO] [legendarymonuments/]: Triggered save for disconnecting player: DangerCreeper17
-[30nov2025 01:36:31.105] [Netty Server IO #20/INFO] [legendarymonuments/]: Player DangerCreeper17 disconnected, saving their progress data
-[30nov2025 01:36:31.112] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: DangerCreeper17
-[30nov2025 01:36:31.112] [Server thread/INFO] [legendarymonuments/]: Player DangerCreeper17 disconnected, saving their progress data
-[30nov2025 01:36:31.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DangerCreeper17 lost connection: Disconnected
-[30nov2025 01:36:31.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DangerCreeper17 left the game
-[30nov2025 02:41:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Server stopping, performing final save of all key items data...
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:overworld
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_end
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_nether
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:distortion_world
-[30nov2025 02:41:36.454] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:hall_of_origin_world
-[30nov2025 02:41:36.555] [Server thread/INFO] [legendarymonuments/]: Server stopping, saving all player progress data and shutting down trackers
-[30nov2025 02:41:36.555] [Server thread/INFO] [legendarymonuments/]: Shutting down ShrineTracker...
-[30nov2025 02:41:36.557] [Server thread/INFO] [legendarymonuments/]: ShrineTracker shutdown complete
-[30nov2025 02:41:36.558] [Server thread/INFO] [legendarymonuments/]: Shutting down FootprintTracker...
-[30nov2025 02:41:36.560] [Server thread/INFO] [legendarymonuments/]: FootprintTracker shutdown complete
-[30nov2025 02:41:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30nov2025 02:41:36.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30nov2025 02:41:36.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30nov2025 02:41:36.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30nov2025 02:41:36.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30nov2025 02:41:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30nov2025 02:41:36.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:distortion_world
-[30nov2025 02:41:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:hall_of_origin_world
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (distortion_world): All chunks are saved
-[30nov2025 02:41:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hall_of_origin_world): All chunks are saved
-[30nov2025 02:41:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10dic2025 21:08:28.138] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.215, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[10dic2025 21:08:28.143] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 21.0.9+7-LTS-338
+[10dic2025 21:08:28.145] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.9 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[10dic2025 21:08:28.529] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10dic2025 21:08:28.648] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/sharp/.vscode/repos/Cobblemon/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[10dic2025 21:08:29.093] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.215:server]
+[10dic2025 21:08:29.127] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.215-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries\net\neoforged\neoforge\21.1.215\neoforge-21.1.215-universal.jar]], reader: mod manifest]
+[10dic2025 21:08:29.133] [main/INFO] [AutoModpack/]: Prelaunching AutoModpack...
+[10dic2025 21:08:29.292] [main/INFO] [AutoModpack/]: Loaded config! took 29ms
+[10dic2025 21:08:29.294] [main/INFO] [AutoModpack/]: AutoModpack self-updater is disabled in server config.
+[10dic2025 21:08:29.297] [main/INFO] [AutoModpack/]: AutoModpack prelaunched! took 164ms
+[10dic2025 21:08:29.302] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "~nonexistent" [locator: org.sinytra.connector.locator.ConnectorEarlyLocatorBootstrap@7383eae2]
+[10dic2025 21:08:29.312] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "accessories-neoforge-1.1.0-beta.52+1.21.1.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.321] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "accessories_compat_layer-neoforge-0.1.10+1.21.1.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.326] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "architectury-13.0.8-neoforge.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.331] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "athena-neoforge-1.21-4.0.2.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.339] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "backpacks-1.0.3.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.358] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "chipped-neoforge-1.21.1-4.0.2.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.364] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CobbleFurnies-neoforge-0.6.3.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.387] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Cobblemon-neoforge-1.7.1+1.21.1.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.393] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "coroutil-neoforge-1.21.0-1.3.8.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.402] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-1.21.1-6.0.8.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.408] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "createcobblemonballsoverhaul-0.0.3.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.412] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.5.1+1.21.1.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.419] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.424] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.8.2.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.427] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinforforge-5.10.0-all.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.464] [main/WARN] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Skipping jar. File C:\Users\sharp\.vscode\repos\Cobblemon\mods\LegendaryMonuments-7.4.jar is a Fabric mod and cannot be loaded
+[10dic2025 21:08:29.476] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mega_showdown-neoforge-1.4.1+1.7+1.21.1.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.486] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MythsAndLegends-neoforge-1.9.0.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.492] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.497] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.502] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "resourcefullib-neoforge-1.21-3.0.12.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.508] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "skinrestorer-2.4.3+1.21-neoforge.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:29.511] [main/WARN] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Skipping jar. File C:\Users\sharp\.vscode\repos\Cobblemon\mods\trinkets-3.10.0.jar is a Fabric mod and cannot be loaded
+[10dic2025 21:08:29.515] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "watut-neoforge-1.21.0-1.2.7.jar" [locator: {mods folder locator at C:\Users\sharp\.vscode\repos\Cobblemon\mods}, reader: mod manifest]
+[10dic2025 21:08:30.101] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: library:net.fabricmc.loader. Using Mod File: \~nonexistent
+[10dic2025 21:08:30.102] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 69 dependencies adding them to mods collection
+[10dic2025 21:08:30.102] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-transfer-api-v1-5.4.2+a25cb45619.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.102] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-3.4.0+9c40919e19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.102] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-0.1.5.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Ponder-NeoForge-1.21.1-1.0.64.jar" [parent: create-1.21.1-6.0.8.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-item-api-v1-11.1.1+57cdfa8219.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.215.jar" [parent: neoforge-21.1.215-universal.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-model-loading-api-v1-2.0.0+986ae77219.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-fluids-v1-3.1.6+857185bc19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "MixinSquared-0.3.4.jar" [parent: mixinsquared-neoforge-0.3.4.jar, locator: jarinjar]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-screen-handler-api-v1-1.3.88+8dbc56dd19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-resource-loader-v0-1.3.1+4ea8954419.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-v1-5.0.5+c290471319.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-indigo-1.7.0+4198af7119.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "netty-0.1.4.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[10dic2025 21:08:30.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "endec-0.1.8.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[10dic2025 21:08:30.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-core-jvm-1.10.2.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-convention-tags-v1-2.1.4+7f945d5b19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.11+e9036fd419.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-command-api-v2-2.2.28+36d727be19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-convention-tags-v2-2.11.0+87e5848019.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "yabn-1.0.3.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[10dic2025 21:08:30.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-data-attachment-api-v1-1.4.3+c290471319.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.105] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-jdk8-1.10.2.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.105] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk7-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.105] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-screen-api-v1-2.0.25+4228281319.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.105] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk8-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.105] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-particles-v1-4.0.2+824f924c19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.106] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bytecodecs-1.1.2.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[10dic2025 21:08:30.106] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-content-registries-v0-8.0.18+c290471319.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.106] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-json-jvm-1.9.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.106] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-transitive-access-wideners-v1-6.2.0+6c854b6f19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.106] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-1.2.2.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[10dic2025 21:08:30.106] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [parent: neoforge-21.1.215-universal.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-game-rule-api-v1-1.0.53+36d727be19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "gson-0.1.5.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[10dic2025 21:08:30.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308dedd1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-lookup-api-v1-1.6.70+c290471319.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-blockrenderlayer-v1-1.1.52+c290471319.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinsquared-neoforge-0.3.4.jar" [parent: accessories_compat_layer-neoforge-0.1.10+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "thedarkcolour.kfflang-5.10.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-api-v1-1.0.22+a6e994cd19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-resource-conditions-api-v1-4.3.0+5bdd099819.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "thedarkcolour.kfflib-5.10.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "java-client-3.0.6-SNAPSHOT.jar" [parent: skinrestorer-2.4.3+1.21-neoforge.jar, locator: jarinjar]
+[10dic2025 21:08:30.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "thedarkcolour.kffmod-5.10.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-reflect-2.2.20.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "flywheel-neoforge-1.21.1-1.0.5.jar" [parent: create-1.21.1-6.0.8.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-item-group-api-v1-4.1.7+e324903319.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-gametest-api-v1-2.0.5+29f188ce19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "toml4j-0.7.2.jar" [parent: MythsAndLegends-neoforge-1.9.0.jar, locator: jarinjar]
+[10dic2025 21:08:30.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-biome-api-v1-13.0.31+1e62d33c19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-entity-events-v1-1.7.0+1af6e62419.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-registry-sync-v0-5.2.0+867470b919.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-recipe-api-v1-5.0.14+59440bcc19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-object-builder-api-v1-15.2.1+cc242efd19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-loot-api-v2-3.0.15+a3ee712d19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-loot-api-v3-1.0.3+333dfad919.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.49+73761d2e19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-core-jvm-1.9.0.jar" [parent: kotlinforforge-5.10.0-all.jar, locator: jarinjar]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-networking-api-v1-4.3.0+30a980d919.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "Registrate-MC1.21-1.3.0+67.jar" [parent: create-1.21.1-6.0.8.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-sound-api-v1-1.0.23+10b84f8419.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.112] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-message-api-v1-6.0.13+e053909619.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.112] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-lifecycle-events-v1-2.5.0+a2ee258a19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.112] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-data-generation-api-v1-20.2.28+2d91a6db19.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.112] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-events-interaction-v0-0.7.13+7b71cc1619.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.112] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-key-binding-api-v1-1.0.47+62cc7ce119.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.112] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-client-tags-api-v1-1.1.15+e053909619.jar" [parent: forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[10dic2025 21:08:30.230] [main/INFO] [org.sinytra.connector.locator.FabricModsDiscoverer/SCAN]: Fabric mod metadata not found in jar kotlinforforge.all, ignoring
+[10dic2025 21:08:30.510] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 4 candidates to load
+[10dic2025 21:08:30.841] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "trinkets-3.10.0$cardinal-components-base-6.1.0_mapped_moj_1.21.1.jar" [locator: org.sinytra.connector.locator.ConnectorLocator@29ef6856]
+[10dic2025 21:08:30.842] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "trinkets-3.10.0$cardinal-components-entity-6.1.0_mapped_moj_1.21.1.jar" [locator: org.sinytra.connector.locator.ConnectorLocator@29ef6856]
+[10dic2025 21:08:30.842] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "LegendaryMonuments-7.4_mapped_moj_1.21.1.jar" [locator: org.sinytra.connector.locator.ConnectorLocator@29ef6856]
+[10dic2025 21:08:30.842] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "trinkets-3.10.0_mapped_moj_1.21.1.jar" [locator: org.sinytra.connector.locator.ConnectorLocator@29ef6856]
+[10dic2025 21:08:30.855] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[10dic2025 21:08:30.855] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "org.sinytra.connector-2.0.0-beta.12+1.21.1-mod.jar" [parent: , locator: org.sinytra.connector.locator.ConnectorLocator@29ef6856, reader: mod manifest]
+[10dic2025 21:08:30.855] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "runtime-1.0.0+1.21.1.jar" [parent: , locator: org.sinytra.connector.locator.ConnectorLocator@29ef6856, reader: mod manifest]
+[10dic2025 21:08:30.894] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[10dic2025 21:08:30.894] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "automodpack-mod.jar" [parent: , locator: pl.skidam.automodpack_loader_core.LazyModLocator@569bf9eb, reader: mod manifest]
+[10dic2025 21:08:30.898] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Accessories 1.1.0-beta.52+1.21.1 (accessories)
+		Accessories Compatibility Layer 0.1.10 (accessories_compat_layer)
+		Architectury 13.0.8 (architectury)
+		Athena 4.0.2 (athena)
+		AutoModpack 4.0.1 (automodpack_mod)
+		Backpacks 1.0.3 (backpacks)
+		Cardinal Components API (base) 6.1.0 (cardinal_components_base)
+		Cardinal Components API (entities) 6.1.0 (cardinal_components_entity)
+		Chipped 4.0.2 (chipped)
+		CobbleFurnies 0.6.3 (cobblefurnies)
+		Cobblemon 1.7.1+1.21.1 (cobblemon)
+		Cobblemon:Mega Showdown 1.4.1+1.7+1.21.1 (mega_showdown)
+		CoroUtil 1.21.0-1.3.8 (coroutil)
+		Create 6.0.8 (create)
+		Create Cobblemon Balls Overhaul 0.0.1 (createmonballsoverhaul)
+		Curios API 9.5.1+1.21.1 (curios)
+		Flywheel 1.0.5 (flywheel)
+		Forgified Fabric API 0.115.6+2.1.4+1.21.1 (fabric_api)
+		Forgified Fabric API Base 0.4.42+d1308dedd1 (fabric_api_base)
+		Forgified Fabric API Lookup API (v1) 1.6.70+c290471319 (fabric_api_lookup_api_v1)
+		Forgified Fabric Biome API (v1) 13.0.31+1e62d33c19 (fabric_biome_api_v1)
+		Forgified Fabric Block API (v1) 1.0.22+a6e994cd19 (fabric_block_api_v1)
+		Forgified Fabric BlockRenderLayer Registration (v1) 1.1.52+c290471319 (fabric_blockrenderlayer_v1)
+		Forgified Fabric BlockView API (v2) 1.0.11+e9036fd419 (fabric_block_view_api_v2)
+		Forgified Fabric Client Tags 1.1.15+e053909619 (fabric_client_tags_api_v1)
+		Forgified Fabric Command API (v2) 2.2.28+36d727be19 (fabric_command_api_v2)
+		Forgified Fabric Content Registries (v0) 8.0.18+c290471319 (fabric_content_registries_v0)
+		Forgified Fabric Convention Tags 2.1.4+7f945d5b19 (fabric_convention_tags_v1)
+		Forgified Fabric Convention Tags (v2) 2.11.0+87e5848019 (fabric_convention_tags_v2)
+		Forgified Fabric Data Attachment API (v1) 1.4.3+c290471319 (fabric_data_attachment_api_v1)
+		Forgified Fabric Data Generation API (v1) 20.2.28+2d91a6db19 (fabric_data_generation_api_v1)
+		Forgified Fabric Entity Events (v1) 1.7.0+1af6e62419 (fabric_entity_events_v1)
+		Forgified Fabric Events Interaction (v0) 0.7.13+7b71cc1619 (fabric_events_interaction_v0)
+		Forgified Fabric Game Rule API (v1) 1.0.53+36d727be19 (fabric_game_rule_api_v1)
+		Forgified Fabric Game Test API (v1) 2.0.5+29f188ce19 (fabric_gametest_api_v1)
+		Forgified Fabric Item API (v1) 11.1.1+57cdfa8219 (fabric_item_api_v1)
+		Forgified Fabric Item Group API (v1) 4.1.7+e324903319 (fabric_item_group_api_v1)
+		Forgified Fabric Key Binding API (v1) 1.0.47+62cc7ce119 (fabric_key_binding_api_v1)
+		Forgified Fabric Lifecycle Events (v1) 2.5.0+a2ee258a19 (fabric_lifecycle_events_v1)
+		Forgified Fabric Loot API (v2) 3.0.15+a3ee712d19 (fabric_loot_api_v2)
+		Forgified Fabric Loot API (v3) 1.0.3+333dfad919 (fabric_loot_api_v3)
+		Forgified Fabric Message API (v1) 6.0.13+e053909619 (fabric_message_api_v1)
+		Forgified Fabric Model Loading API (v1) 2.0.0+986ae77219 (fabric_model_loading_api_v1)
+		Forgified Fabric Networking API (v1) 4.3.0+30a980d919 (fabric_networking_api_v1)
+		Forgified Fabric Object Builder API (v1) 15.2.1+cc242efd19 (fabric_object_builder_api_v1)
+		Forgified Fabric Particles (v1) 4.0.2+824f924c19 (fabric_particles_v1)
+		Forgified Fabric Recipe API (v1) 5.0.14+59440bcc19 (fabric_recipe_api_v1)
+		Forgified Fabric Registry Sync (v0) 5.2.0+867470b919 (fabric_registry_sync_v0)
+		Forgified Fabric Renderer - Indigo 1.7.0+4198af7119 (fabric_renderer_indigo)
+		Forgified Fabric Renderer API (v1) 3.4.0+9c40919e19 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering (v1) 5.0.5+c290471319 (fabric_rendering_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.49+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Forgified Fabric Rendering Fluids (v1) 3.1.6+857185bc19 (fabric_rendering_fluids_v1)
+		Forgified Fabric Resource Conditions API (v1) 4.3.0+5bdd099819 (fabric_resource_conditions_api_v1)
+		Forgified Fabric Resource Loader (v0) 1.3.1+4ea8954419 (fabric_resource_loader_v0)
+		Forgified Fabric Screen API (v1) 2.0.25+4228281319 (fabric_screen_api_v1)
+		Forgified Fabric Screen Handler API (v1) 1.3.88+8dbc56dd19 (fabric_screen_handler_api_v1)
+		Forgified Fabric Sound API (v1) 1.0.23+10b84f8419 (fabric_sound_api_v1)
+		Forgified Fabric Transfer API (v1) 5.4.2+a25cb45619 (fabric_transfer_api_v1)
+		Forgified Fabric Transitive Access Wideners (v1) 6.2.0+6c854b6f19 (fabric_transitive_access_wideners_v1)
+		GeckoLib 4 4.8.2 (geckolib)
+		Kotlin For Forge 5.10.0 (kotlinforforge)
+		Legendary Monuments 7.4 (legendarymonuments)
+		Minecraft 1.21.1 (minecraft)
+		MythsAndLegends 1.9.0 (mythsandlegends)
+		NeoForge 21.1.215 (neoforge)
+		oωo 0.12.15.5-beta.1+1.21 (owo)
+		Ponder 1.0.64 (ponder)
+		Reese's Sodium Options 1.8.3+mc1.21.4 (reeses_sodium_options)
+		Resourceful Lib 3.0.12 (resourcefullib)
+		Sinytra Connector 2.0.0-beta.12+1.21.1 (connector)
+		SkinRestorer 2.4.3+1.21-neoforge (skinrestorer)
+		Trinkets 3.10.0 (trinkets)
+		What Are They Up To 1.21.0-1.2.7 (watut)
+[10dic2025 21:08:31.280] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[10dic2025 21:08:31.284] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module brigadier transformable
+[10dic2025 21:08:31.788] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10dic2025 21:08:31.791] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[10dic2025 21:08:31.950] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[10dic2025 21:08:32.050] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.060] [main/WARN] [mixin/]: Reference map '' for accessories_compat_layer-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.064] [main/WARN] [mixin/]: Reference map '' for accessories_compat_layer-trinkets.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.066] [main/WARN] [mixin/]: Reference map '' for accessories_compat_layer-curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.089] [main/WARN] [mixin/]: Reference map 'reeses-sodium-options.refmap.json' for reeses-sodium-options.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.096] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.097] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.105] [main/WARN] [mixin/]: Reference map '' for accessories-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.107] [main/WARN] [mixin/]: Reference map '' for accessories-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.108] [main/WARN] [mixin/]: Reference map 'watut.refmap.json' for watut.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.119] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.246] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[10dic2025 21:08:32.921] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/sounds/SoundEngine for invalid dist DEDICATED_SERVER
+[10dic2025 21:08:32.932] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/sounds/SoundEngine (java.lang.RuntimeException: Attempted to load class net/minecraft/client/sounds/SoundEngine for invalid dist DEDICATED_SERVER)
+[10dic2025 21:08:32.933] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.sounds.SoundEngine was not found mixins.cobblemon-neoforge.json:NeoforgeSoundEngineMixin from mod cobblemon
+[10dic2025 21:08:32.961] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/audio/Channel (java.lang.ClassNotFoundException: com.mojang.blaze3d.audio.Channel)
+[10dic2025 21:08:32.962] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.audio.Channel was not found mixins.cobblemon-common.json:ChannelMixin from mod cobblemon
+[10dic2025 21:08:33.025] [main/WARN] [mixin/]: Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel.adorn.block.variant.BlockVariantSets)
+[10dic2025 21:08:33.025] [main/WARN] [mixin/]: @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker from mod cobblemon
+[10dic2025 21:08:33.415] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
+[10dic2025 21:08:33.534] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[10dic2025 21:08:35.757] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinLivingEntity. Check debug logs for more information.
+[10dic2025 21:08:36.016] [main/WARN] [mixin/]: Method overwrite conflict for hasNamedArmorStandWithinDistance in legendarymonuments.mixins.json:HoopaPyramidMixin from mod legendarymonuments, previously written by github.jorgaomc.mixin.LugiaTempleMixin. Skipping method.
+[10dic2025 21:08:36.019] [main/WARN] [mixin/]: Method overwrite conflict for executeFunction in legendarymonuments.mixins.json:HoopaPyramidMixin from mod legendarymonuments, previously written by github.jorgaomc.mixin.LugiaTempleMixin. Skipping method.
+[10dic2025 21:08:36.663] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinPowderSnowBlock. Check debug logs for more information.
+[10dic2025 21:08:40.611] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinInventory. Check debug logs for more information.
+[10dic2025 21:08:40.778] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinEnchantedCountIncreaseFunction. Check debug logs for more information.
+[10dic2025 21:08:40.822] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinApplyBonusCount. Check debug logs for more information.
+[10dic2025 21:08:41.641] [main/INFO] [legendarymonuments/]: Initializing Legendary Monuments mod!
+[10dic2025 21:08:41.646] [main/INFO] [legendarymonuments/]: Registering mod entities for legendarymonuments
+[10dic2025 21:08:41.657] [main/INFO] [legendarymonuments/]: Registered alternative Distortion World chunk generator
+[10dic2025 21:08:41.658] [main/INFO] [legendarymonuments/]: Registering Distortion World dimension
+[10dic2025 21:08:41.659] [main/INFO] [legendarymonuments/]: Registering Hall of Origin void dimension
+[10dic2025 21:08:41.662] [main/INFO] [legendarymonuments/]: Registered Azure Flute teleporter callbacks
+[10dic2025 21:08:41.708] [main/INFO] [legendarymonuments/]: Registered server locate request handler
+[10dic2025 21:08:41.709] [main/INFO] [legendarymonuments/]: Registering screen handlers for legendarymonuments
+[10dic2025 21:08:41.710] [main/INFO] [legendarymonuments/]: Registering structures for map discovery
+[10dic2025 21:08:41.712] [main/INFO] [legendarymonuments/]: Registering Southern Island structure for map discovery
+[10dic2025 21:08:42.335] [main/INFO] [legendarymonuments/]: Created structure tag: TagKey[minecraft:worldgen/structure / legendarymonuments:southern_island]
+[10dic2025 21:08:42.335] [main/INFO] [legendarymonuments/]: Southern Island structure ID: legendarymonuments:southern_island
+[10dic2025 21:08:42.335] [main/INFO] [legendarymonuments/]: Structure registry key: ResourceKey[minecraft:worldgen/structure / legendarymonuments:southern_island]
+[10dic2025 21:08:42.336] [main/INFO] [legendarymonuments/]: Registering Villager Types for legendarymonuments
+[10dic2025 21:08:42.340] [main/INFO] [legendarymonuments/]: Registering Villagers for legendarymonuments
+[10dic2025 21:08:42.383] [main/INFO] [legendarymonuments/]: Registered data component types for Legendary Monuments
+[10dic2025 21:08:42.387] [main/INFO] [legendarymonuments/]: Registered Distortion Sign Block Entities
+[10dic2025 21:08:42.393] [main/INFO] [legendarymonuments/]: Registering Block Entities for legendarymonuments
+[10dic2025 21:08:42.393] [main/INFO] [legendarymonuments/]: Registered Pedestal Block Entities
+[10dic2025 21:08:42.393] [main/INFO] [legendarymonuments/]: Registered Legendary Pokemon Pedestal Block Entities
+[10dic2025 21:08:42.394] [main/INFO] [legendarymonuments/]: Registered Latias Pedestal Block Entity
+[10dic2025 21:08:42.394] [main/INFO] [legendarymonuments/]: Registered Eternatus Cocoon Block Entity
+[10dic2025 21:08:42.394] [main/INFO] [legendarymonuments/]: Registered Meltan Box Block Entity
+[10dic2025 21:08:42.394] [main/INFO] [legendarymonuments/]: Registered Dual Pedestal Block Entities
+[10dic2025 21:08:42.452] [main/INFO] [legendarymonuments/]: Registered Dream String drop handler
+[10dic2025 21:08:42.454] [main/INFO] [legendarymonuments/]: Registered Arceus event handler (faint/capture -> teleport from Hall of Origin)
+[10dic2025 21:08:42.458] [main/INFO] [legendarymonuments/]: Registering world generation features...
+[10dic2025 21:08:42.459] [main/INFO] [legendarymonuments/]: Registered footprint feature
+[10dic2025 21:08:42.459] [main/INFO] [legendarymonuments/]: Registered cosmic dust feature
+[10dic2025 21:08:42.460] [main/INFO] [legendarymonuments/]: Registered stake feature
+[10dic2025 21:08:42.461] [main/INFO] [legendarymonuments/]: Registered Ilex Shrine feature
+[10dic2025 21:08:42.463] [main/INFO] [legendarymonuments/]: Registering Block Entities for legendarymonuments
+[10dic2025 21:08:42.463] [main/INFO] [legendarymonuments/]: Registered Pedestal Block Entities
+[10dic2025 21:08:42.465] [main/INFO] [legendarymonuments/]: Registered Legendary Pokemon Pedestal Block Entities
+[10dic2025 21:08:42.465] [main/INFO] [legendarymonuments/]: Registered Latias Pedestal Block Entity
+[10dic2025 21:08:42.465] [main/INFO] [legendarymonuments/]: Registered Eternatus Cocoon Block Entity
+[10dic2025 21:08:42.465] [main/INFO] [legendarymonuments/]: Registered Meltan Box Block Entity
+[10dic2025 21:08:42.465] [main/INFO] [legendarymonuments/]: Registered Dual Pedestal Block Entities
+[10dic2025 21:08:42.465] [main/INFO] [legendarymonuments/]: Registered footprint feature
+[10dic2025 21:08:42.469] [main/INFO] [legendarymonuments/]: Registered footprint placements for all overworld biomes
+[10dic2025 21:08:42.469] [main/INFO] [legendarymonuments/]: Registered Ilex Shrine feature
+[10dic2025 21:08:42.469] [main/INFO] [legendarymonuments/]: Registered Ilex Shrine placements for spooky biomes
+[10dic2025 21:08:42.470] [main/INFO] [legendarymonuments/]: Registered stake feature
+[10dic2025 21:08:42.470] [main/INFO] [legendarymonuments/]: Registered stake placements for all nether biomes
+[10dic2025 21:08:42.470] [main/INFO] [legendarymonuments/]: Registered cosmic dust feature
+[10dic2025 21:08:42.471] [main/INFO] [legendarymonuments/]: Registered cosmic dust placements for all End biomes
+[10dic2025 21:08:42.472] [main/INFO] [legendarymonuments/]: Registering ore generation...
+[10dic2025 21:08:42.472] [main/INFO] [legendarymonuments/]: Registering ModPlacedFeatures for legendarymonuments
+[10dic2025 21:08:42.473] [main/INFO] [legendarymonuments/]: Registering Ancient Rubble ore placed features
+[10dic2025 21:08:42.473] [main/INFO] [legendarymonuments/]: Registering Galar Particle ore placed features
+[10dic2025 21:08:42.473] [main/INFO] [legendarymonuments/]: Applying ore generation to biomes...
+[10dic2025 21:08:42.473] [main/INFO] [legendarymonuments/]: Registering ore generation features...
+[10dic2025 21:08:42.473] [main/INFO] [legendarymonuments/]: Adding Ancient Rubble ore features to biomes
+[10dic2025 21:08:42.473] [main/INFO] [legendarymonuments/]: Successfully registered Ancient Rubble ore features
+[10dic2025 21:08:42.474] [main/INFO] [legendarymonuments/]: Adding Galar Particle ore features to biomes
+[10dic2025 21:08:42.474] [main/INFO] [legendarymonuments/]: Successfully registered Galar Particle ore features
+[10dic2025 21:08:42.479] [main/INFO] [legendarymonuments/]: Footprint tracking system initialized. Players will need to find 50 of each footprint type.
+[10dic2025 21:08:42.480] [main/INFO] [legendarymonuments/]: Legendary Monuments mod initialization complete!
+[10dic2025 21:08:42.699] [modloading-worker-0/INFO] [AutoModpack/]: Launching AutoModpack...
+[10dic2025 21:08:42.702] [modloading-worker-0/INFO] [owo/]: chyz: now i just need to painstakingly move jerry (the little tiny lil fella tiny guy man button) to correct spot when recipe book is opened
+[10dic2025 21:08:42.718] [modloading-worker-0/INFO] [AutoModpack/]: Generating modpack...
+[10dic2025 21:08:42.731] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.215, for MC 1.21.1
+[10dic2025 21:08:42.769] [modloading-worker-0/INFO] [coroutil/]: neo forge loader environment detected
+[10dic2025 21:08:42.791] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.8 initializing! Commit hash: 5f1b407a97467157e7a0da0c560c7d1d5f378929
+[10dic2025 21:08:42.806] [modloading-worker-0/INFO] [accessories_compat_layer/]: Setting up compat modules for Accessories!
+[10dic2025 21:08:43.103] [modloading-worker-0/INFO] [AutoModpack/]: Syncing main...
+[10dic2025 21:08:43.158] [AutoModpackCreation-4/INFO] [AutoModpack/]: generated content for /mods/trinkets-3.10.0.jar
+[10dic2025 21:08:43.246] [AutoModpackCreation-6/INFO] [AutoModpack/]: generated content for /mods/architectury-13.0.8-neoforge.jar
+[10dic2025 21:08:43.247] [AutoModpackCreation-3/INFO] [AutoModpack/]: generated content for /mods/backpacks-1.0.3.jar
+[10dic2025 21:08:43.251] [AutoModpackCreation-5/INFO] [AutoModpack/]: generated content for /mods/curios-neoforge-9.5.1+1.21.1.jar
+[10dic2025 21:08:43.252] [AutoModpackCreation-2/INFO] [AutoModpack/]: generated content for /mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar
+[10dic2025 21:08:43.261] [AutoModpackCreation-4/INFO] [AutoModpack/]: generated content for /mods/MythsAndLegends-neoforge-1.9.0.jar
+[10dic2025 21:08:43.268] [AutoModpackCreation-3/INFO] [AutoModpack/]: generated content for /mods/connector-2.0.0-beta.12+1.21.1-full.jar
+[10dic2025 21:08:43.273] [AutoModpackCreation-5/INFO] [AutoModpack/]: generated content for /mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar
+[10dic2025 21:08:43.276] [AutoModpackCreation-4/INFO] [AutoModpack/]: generated content for /mods/athena-neoforge-1.21-4.0.2.jar
+[10dic2025 21:08:43.280] [AutoModpackCreation-3/INFO] [AutoModpack/]: generated content for /mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar
+[10dic2025 21:08:43.296] [AutoModpackCreation-4/INFO] [AutoModpack/]: generated content for /mods/createcobblemonballsoverhaul-0.0.3.jar
+[10dic2025 21:08:43.301] [AutoModpackCreation-2/INFO] [AutoModpack/]: generated content for /mods/LegendaryMonuments-7.4.jar
+[10dic2025 21:08:43.302] [AutoModpackCreation-6/INFO] [AutoModpack/]: generated content for /mods/mega_showdown-neoforge-1.4.1+1.7+1.21.1.jar
+[10dic2025 21:08:43.319] [AutoModpackCreation-4/INFO] [AutoModpack/]: generated content for /mods/skinrestorer-2.4.3+1.21-neoforge.jar
+[10dic2025 21:08:43.326] [AutoModpackCreation-2/INFO] [AutoModpack/]: generated content for /mods/accessories_compat_layer-neoforge-0.1.10+1.21.1.jar
+[10dic2025 21:08:43.328] [AutoModpackCreation-3/INFO] [AutoModpack/]: generated content for /mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar
+[10dic2025 21:08:43.334] [AutoModpackCreation-4/INFO] [AutoModpack/]: generated content for /mods/coroutil-neoforge-1.21.0-1.3.8.jar
+[10dic2025 21:08:43.341] [AutoModpackCreation-5/INFO] [AutoModpack/]: generated content for /mods/chipped-neoforge-1.21.1-4.0.2.jar
+[10dic2025 21:08:43.356] [AutoModpackCreation-5/INFO] [AutoModpack/]: generated content for /mods/resourcefullib-neoforge-1.21-3.0.12.jar
+[10dic2025 21:08:43.374] [AutoModpackCreation-5/INFO] [AutoModpack/]: generated content for /mods/CobbleFurnies-neoforge-0.6.3.jar
+[10dic2025 21:08:43.385] [AutoModpackCreation-2/INFO] [AutoModpack/]: generated content for /mods/create-1.21.1-6.0.8.jar
+[10dic2025 21:08:43.389] [AutoModpackCreation-5/INFO] [AutoModpack/]: generated content for /mods/geckolib-neoforge-1.21.1-4.8.2.jar
+[10dic2025 21:08:43.553] [AutoModpackCreation-3/INFO] [AutoModpack/]: generated content for /mods/Cobblemon-neoforge-1.7.1+1.21.1.jar
+[10dic2025 21:08:43.598] [AutoModpackCreation-2/INFO] [AutoModpack/]: generated content for /mods/kotlinforforge-5.10.0-all.jar
+[10dic2025 21:08:43.606] [AutoModpackCreation-2/INFO] [AutoModpack/]: generated content for /mods/watut-neoforge-1.21.0-1.2.7.jar
+[10dic2025 21:08:43.608] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.neoforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[10dic2025 21:08:43.610] [modloading-worker-0/INFO] [AutoModpack/]: Modpack generated! took 891ms
+[10dic2025 21:08:43.638] [modloading-worker-0/INFO] [AutoModpack/]: AutoModpack launched! took 939ms
+[10dic2025 21:08:43.675] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
+[10dic2025 21:08:43.685] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Launching Cobblemon 1.7.1 
+[10dic2025 21:08:43.688] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting ForgePermissionApiPermissionValidator, player permissions will be checked using MinecraftForge' PermissionAPI, non player command sources will use Minecraft' permission level system, see https://docs.minecraftforge.net/en/latest/ and https://minecraft.fandom.com/wiki/Permission_level
+[10dic2025 21:08:43.701] [modloading-worker-0/INFO] [mythsandlegends/]: Successfully loaded loot table configuration v2.
+[10dic2025 21:08:43.709] [modloading-worker-0/INFO] [mythsandlegends/]: Tick Events Registered
+[10dic2025 21:08:43.720] [modloading-worker-0/INFO] [mythsandlegends/]: Player Events Registered
+[10dic2025 21:08:43.723] [modloading-worker-0/INFO] [mythsandlegends/]: Life Cycle Events Registered
+[10dic2025 21:08:43.739] [modloading-worker-0/INFO] [mythsandlegends/]: Registered all conditions
+[10dic2025 21:08:43.750] [modloading-worker-0/INFO] [mythsandlegends/]: Registered C2S network packets for Myths and Legends.
+[10dic2025 21:08:43.752] [modloading-worker-0/INFO] [mythsandlegends/]: Registered S2C SyncTransformConfigPacket payload type on server.
+[10dic2025 21:08:44.203] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting the Best Spawner...
+[10dic2025 21:08:44.211] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 7 spawning condition types.
+[10dic2025 21:08:44.222] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 6 spawnable position types.
+[10dic2025 21:08:44.231] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 3 spawn detail types.
+[10dic2025 21:08:50.446] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Initializing...
+[10dic2025 21:08:50.451] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting showdown service...
+[10dic2025 21:08:50.455] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Starting version check at https://api.modrinth.com/updates/BAscRYKm/forge_updates.json
+[10dic2025 21:08:50.472] [Cobblemon Showdown/INFO] [mega_showdown/]: Loaded fallback file: .\showdown\data\moves.js
+[10dic2025 21:08:50.474] [Cobblemon Showdown/INFO] [mega_showdown/]: Loaded fallback file: .\showdown\sim\battle-actions.js
+[10dic2025 21:08:50.477] [Cobblemon Showdown/INFO] [mega_showdown/]: Loaded fallback file: .\showdown\sim\pokemons.js
+[10dic2025 21:08:50.480] [Cobblemon Showdown/INFO] [mega_showdown/]: Loaded fallback file: .\showdown\data\abilities.js
+[10dic2025 21:08:50.482] [Cobblemon Showdown/INFO] [mega_showdown/]: Loaded fallback file: .\showdown\sim\side.js
+[10dic2025 21:08:50.485] [Cobblemon Showdown/INFO] [mega_showdown/]: Loaded fallback file: .\showdown\data\conditions.js
+[10dic2025 21:08:50.486] [Cobblemon Showdown/INFO] [mega_showdown/]: Loaded fallback file: .\showdown\index.js
+[10dic2025 21:08:50.487] [Cobblemon Showdown/INFO] [mega_showdown/]: All files are ready!
+[10dic2025 21:08:51.137] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Found status: BETA Current: 4.0.2 Target: null
+[10dic2025 21:08:52.731] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Showdown has been started!
+[10dic2025 21:08:52.734] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
+[10dic2025 21:08:52.734] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the mega_showdown:showdown/conditions registry
+[10dic2025 21:08:52.736] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the mega_showdown:showdown/held_items registry
+[10dic2025 21:08:52.737] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the mega_showdown:showdown/typecharts registry
+[10dic2025 21:08:52.739] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the mega_showdown:showdown/scripts registry
+[10dic2025 21:08:52.739] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:molang registry
+[10dic2025 21:08:52.742] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_features registry
+[10dic2025 21:08:52.745] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:global_species_features registry
+[10dic2025 21:08:52.747] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_feature_assignments registry
+[10dic2025 21:08:52.765] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:action_effects registry
+[10dic2025 21:08:52.766] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:moves registry
+[10dic2025 21:08:52.769] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:abilities registry
+[10dic2025 21:08:52.772] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:behaviours registry
+[10dic2025 21:08:52.772] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species registry
+[10dic2025 21:08:52.772] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_additions registry
+[10dic2025 21:08:52.772] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:pokeballs registry
+[10dic2025 21:08:52.774] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:properties_tab_completion registry
+[10dic2025 21:08:52.774] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_detail_presets registry
+[10dic2025 21:08:52.781] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_rules registry
+[10dic2025 21:08:52.796] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:mechanics registry
+[10dic2025 21:08:52.797] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:bag_items registry
+[10dic2025 21:08:52.797] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:held_items registry
+[10dic2025 21:08:52.802] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dialogues registry
+[10dic2025 21:08:52.803] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:natural_materials registry
+[10dic2025 21:08:52.805] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:fossils registry
+[10dic2025 21:08:52.809] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:npc_preset registry
+[10dic2025 21:08:52.811] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:npc registry
+[10dic2025 21:08:52.813] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dex_entries registry
+[10dic2025 21:08:52.815] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dex_entry_additions registry
+[10dic2025 21:08:52.817] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dexes registry
+[10dic2025 21:08:52.818] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dex_additions registry
+[10dic2025 21:08:52.820] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:cosmetic_items registry
+[10dic2025 21:08:52.821] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:callbacks registry
+[10dic2025 21:08:52.822] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:unlockable_pc_box_wallpapers registry
+[10dic2025 21:08:52.826] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:marks registry
+[10dic2025 21:08:52.827] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:starters registry
+[10dic2025 21:08:52.832] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_pool_world registry
+[10dic2025 21:08:52.834] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:pokerods registry
+[10dic2025 21:08:52.840] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:berries registry
+[10dic2025 21:08:52.843] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:seasonings registry
+[10dic2025 21:08:52.848] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:pokemon_interactions registry
+[10dic2025 21:08:52.850] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_bait_effects registry
+[10dic2025 21:08:52.852] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:ride_settings registry
+[10dic2025 21:08:53.366] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10dic2025 21:08:53.479] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/sharp/.vscode/repos/Cobblemon/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
+[10dic2025 21:08:53.480] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/sharp/.vscode/repos/Cobblemon/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
+[10dic2025 21:08:53.782] [main/INFO] [com.simibubi.create.Create/]: Created 214 recipes which will be injected into the game
+[10dic2025 21:08:53.788] [main/INFO] [com.simibubi.create.Create/]: Created 14 tags which will be injected into the game
+[10dic2025 21:08:55.041] [Worker-Main-3/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:legendarymonuments:chests/registeel_chest - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mega_showdown:meltan
+[10dic2025 21:08:55.478] [Worker-Main-3/INFO] [mythsandlegends/]: Registered Myths and Legends commands (using /mythsandlegends or /mal)
+[10dic2025 21:08:55.740] [Worker-Main-3/INFO] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: All Tags to be dealt with: [accessories:any, accessories:mega_slot, accessories:hat, accessories:dynamax_slot, accessories:back, accessories:all, accessories:z_slot, accessories:tera_slot, accessories:trinket_group_chest-pauldron]
+[10dic2025 21:08:55.743] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:any] to [curios:curio]: 
+     [#accessories:all (from mod/accessories)]
+[10dic2025 21:08:55.743] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:mega_slot] to [curios:mega_slot]: 
+     [#mega_showdown:mega_bracelet (from mod/mega_showdown), #mega_showdown:omni_ring (from mod/mega_showdown)]
+[10dic2025 21:08:55.745] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:head] to [accessories:hat]: 
+     [create:goggles (from mod/create)]
+[10dic2025 21:08:55.746] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:dynamax_slot] to [curios:dynamax_slot]: 
+     [#mega_showdown:dynamax_band (from mod/mega_showdown), #mega_showdown:omni_ring (from mod/mega_showdown)]
+[10dic2025 21:08:55.747] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:back] to [accessories:back]: 
+     [backpacks:backpack (from mod/backpacks), backpacks:large_backpack (from mod/backpacks)]
+[10dic2025 21:08:55.747] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:z_slot] to [curios:z_slot]: 
+     [#mega_showdown:z_ring (from mod/mega_showdown), #mega_showdown:omni_ring (from mod/mega_showdown)]
+[10dic2025 21:08:55.748] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:tera_slot] to [curios:tera_slot]: 
+     [#mega_showdown:tera_orb (from mod/mega_showdown), mega_showdown:likos_pendant (from mod/mega_showdown), #mega_showdown:omni_ring (from mod/mega_showdown)]
+[10dic2025 21:08:55.748] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [trinkets:chest/pauldron] to [accessories:trinket_group_chest-pauldron]: 
+     [legendarymonuments:steel_pauldron (from mod/legendarymonuments), legendarymonuments:electric_pauldron (from mod/legendarymonuments), legendarymonuments:rock_pauldron (from mod/legendarymonuments), legendarymonuments:ice_pauldron (from mod/legendarymonuments), legendarymonuments:dragon_pauldron (from mod/legendarymonuments), legendarymonuments:titan_pauldron (from mod/legendarymonuments)]
+[10dic2025 21:08:56.065] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 4299 recipes
+[10dic2025 21:08:56.335] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 3448 advancements
+[10dic2025 21:08:56.342] [main/INFO] [Curios API/]: Loaded 0 curio slots
+[10dic2025 21:08:56.361] [main/INFO] [Curios API/]: Loaded 1 curio entities
+[10dic2025 21:08:56.407] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 10 server scripts and 1 client scripts
+[10dic2025 21:08:59.014] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 936 moves
+[10dic2025 21:08:59.097] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 314 abilities
+[10dic2025 21:08:59.179] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 48 entity behaviours
+[10dic2025 21:08:59.874] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Finished additions
+[10dic2025 21:09:00.285] [cobblemon Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 4 Datafixer optimizations took 28 milliseconds
+[10dic2025 21:09:00.805] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1025 Pokémon species
+[10dic2025 21:09:00.819] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 27 spawn detail presets.
+[10dic2025 21:09:00.831] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting dummy Showdown battle to force it to pre-load data.
+[10dic2025 21:09:01.548] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Imported 266 held item IDs from showdown
+[10dic2025 21:09:01.576] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 15 fossils
+[10dic2025 21:09:01.632] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: cobblemon:dex_entry_additions/README.md, ignoring
+[10dic2025 21:09:01.644] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: cobblemon:dex_additions/README.md, ignoring
+[10dic2025 21:09:01.656] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 6 callbacks and 0 client callbacks
+[10dic2025 21:09:01.666] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 168 marks
+[10dic2025 21:09:02.903] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: water_surface.
+[10dic2025 21:09:02.904] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: water_surface.
+[10dic2025 21:09:02.913] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: water_surface.
+[10dic2025 21:09:02.922] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: freshwater.
+[10dic2025 21:09:02.922] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underwater.
+[10dic2025 21:09:02.922] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: freshwater.
+[10dic2025 21:09:02.923] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underwater.
+[10dic2025 21:09:02.926] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: freshwater.
+[10dic2025 21:09:02.926] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underwater.
+[10dic2025 21:09:02.927] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: freshwater.
+[10dic2025 21:09:02.927] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underwater.
+[10dic2025 21:09:02.927] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: freshwater.
+[10dic2025 21:09:02.927] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underwater.
+[10dic2025 21:09:02.928] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: freshwater.
+[10dic2025 21:09:02.928] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underwater.
+[10dic2025 21:09:02.933] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: water_surface.
+[10dic2025 21:09:02.933] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: water_surface.
+[10dic2025 21:09:02.945] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: flowers.
+[10dic2025 21:09:02.946] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: flowers.
+[10dic2025 21:09:02.948] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: river.
+[10dic2025 21:09:02.949] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: river.
+[10dic2025 21:09:02.956] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: water_surface.
+[10dic2025 21:09:02.957] [main/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: water_surface.
+[10dic2025 21:09:02.999] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 70 berries
+[10dic2025 21:09:03.036] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 137 Pokémon interaction sets
+[10dic2025 21:09:03.059] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: cobblemon:mint_leaf, mega_showdown:rotom_appliances
+[10dic2025 21:09:03.081] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:empty
+[10dic2025 21:09:06.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[10dic2025 21:09:06.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10dic2025 21:09:06.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10dic2025 21:09:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10dic2025 21:09:06.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10dic2025 21:09:07.059] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[10dic2025 21:09:07.102] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10dic2025 21:09:07.102] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10dic2025 21:09:07.102] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10dic2025 21:09:07.102] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10dic2025 21:09:07.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10dic2025 21:09:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10dic2025 21:09:08.354] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10dic2025 21:09:08.516] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 430 ms
+[10dic2025 21:09:08.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.396s)! For help, type "help"
+[10dic2025 21:09:08.621] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting Forge permission node registry
+[10dic2025 21:09:08.623] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[10dic2025 21:09:08.693] [Server thread/WARN] [AutoModpack/]: Certificate fingerprint: 9a79f78fdd0a8e334631a27131b6eed05a02ed09ff36e6dd5bd56c5bb92f7524
+[10dic2025 21:09:08.694] [Server thread/INFO] [AutoModpack/]: Hosting modpack on Minecraft port
+[10dic2025 21:09:08.703] [Server thread/INFO] [mythsandlegends/]: Loading transformations config from: C:\Users\sharp\.vscode\repos\Cobblemon\config\mythsandlegends\transformations.json
+[10dic2025 21:09:08.709] [Server thread/INFO] [mythsandlegends/]: Successfully parsed transformations config.
+[10dic2025 21:09:08.709] [Server thread/INFO] [mythsandlegends/]: Validating transformation rules...
+[10dic2025 21:09:08.713] [Server thread/INFO] [mythsandlegends/]: All transformation rules validated successfully.
+[10dic2025 21:09:08.714] [Server thread/INFO] [mythsandlegends/]: Validated config: 3 held item changes, 5 interaction changes, 4 fusions remain active.
+[10dic2025 21:09:08.714] [Server thread/INFO] [legendarymonuments/]: Key Items auto-save thread started (5-minute intervals)
+[10dic2025 21:09:08.715] [Server thread/INFO] [legendarymonuments/]: Initializing progress storage systems
+[10dic2025 21:09:08.719] [Server thread/INFO] [legendarymonuments/]: === STARTING SHRINE TRACKER INITIALIZATION ===
+[10dic2025 21:09:08.722] [Server thread/INFO] [legendarymonuments/]: Successfully loaded shrine progress data for 1 worlds and 0 total players
+[10dic2025 21:09:08.723] [Server thread/INFO] [legendarymonuments/]: Started periodic save and cleanup scheduler
+[10dic2025 21:09:08.724] [Server thread/INFO] [legendarymonuments/]: === SHRINE TRACKER INITIALIZATION SUCCESSFUL ===
+[10dic2025 21:09:08.728] [Server thread/INFO] [legendarymonuments/]: === STARTING FOOTPRINT TRACKER INITIALIZATION ===
+[10dic2025 21:09:08.731] [Server thread/INFO] [legendarymonuments/]: Successfully loaded footprint progress data for 1 worlds and 0 total players
+[10dic2025 21:09:08.732] [Server thread/INFO] [legendarymonuments/]: Started periodic footprint save and cleanup scheduler
+[10dic2025 21:09:08.733] [Server thread/INFO] [legendarymonuments/]: === FOOTPRINT TRACKER INITIALIZATION SUCCESSFUL ===
+[10dic2025 21:09:08.735] [Server thread/INFO] [legendarymonuments/]: Initializing phone app data storage
+[10dic2025 21:09:08.736] [Server thread/INFO] [legendarymonuments/]: Loaded app data for 4 players
+[10dic2025 21:09:08.737] [Server thread/INFO] [legendarymonuments/]: App data storage initialized
+[10dic2025 21:09:08.744] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Optimizing spawn pools...
+[10dic2025 21:09:21.200] [Server thread/INFO] [AutoModpack/]: Andsharp has installed AutoModpack.
+[10dic2025 21:09:21.206] [Server thread/INFO] [AutoModpack/]: Sending Andsharp modpack host address: :-1
+[10dic2025 21:09:25.193] [Server thread/INFO] [AutoModpack/]: DangerCreeper17 has installed AutoModpack.
+[10dic2025 21:09:25.194] [Server thread/INFO] [AutoModpack/]: Sending DangerCreeper17 modpack host address: :-1
+[10dic2025 21:09:25.342] [Server thread/INFO] [AutoModpack/]: Andsharp has installed whole modpack
+[10dic2025 21:09:29.727] [Server thread/INFO] [AutoModpack/]: DangerCreeper17 has installed whole modpack
+[10dic2025 21:09:32.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andsharp[/127.230.98.82:23166] logged in with entity id 54 at (-200.84642911141492, 120.0, 1037.9763674417075)
+[10dic2025 21:09:32.271] [Server thread/INFO] [legendarymonuments/]: Player Andsharp joined, loading progress data
+[10dic2025 21:09:32.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andsharp joined the game
+[10dic2025 21:09:32.558] [Server thread/INFO] [mythsandlegends/]: Player Andsharp joined, sending transformation config.
+[10dic2025 21:09:42.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DangerCreeper17[/127.101.153.96:23176] logged in with entity id 460 at (-214.48699828331434, 118.0, 1026.174953217866)
+[10dic2025 21:09:42.908] [Server thread/INFO] [legendarymonuments/]: Player DangerCreeper17 joined, loading progress data
+[10dic2025 21:09:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DangerCreeper17 joined the game
+[10dic2025 21:09:43.138] [Server thread/INFO] [mythsandlegends/]: Player DangerCreeper17 joined, sending transformation config.
+[10dic2025 21:10:06.677] [Server thread/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinPiglinAi. Check debug logs for more information.
+[10dic2025 21:10:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> me gusta
+[10dic2025 21:11:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> podría rehacer toda esta base
+[10dic2025 21:11:14.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> ah
+[10dic2025 21:11:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> no son mi tipo
+[10dic2025 21:11:47.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> hm..
+[10dic2025 21:11:55.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> voy a guardar todas mis cosas y
+[10dic2025 21:11:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> ok
+[10dic2025 21:13:38.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> las paredes tienen buen diseño
+[10dic2025 21:13:49.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> pero le falta profundidad
+[10dic2025 21:14:29.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> asd asd ddsadg sssfdfg
+[10dic2025 21:14:48.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> yo quiero reencarnar como un gato
+[10dic2025 21:15:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> como asi
+[10dic2025 21:15:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> pro que superficiale
+[10dic2025 21:15:24.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> s
+[10dic2025 21:16:32.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Corviknight'/1754, l='ServerLevel[world]', x=-156.82, y=122.00, z=1099.25, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=7, z=68} (destroying due to DISCARDED)
+[10dic2025 21:16:48.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> pero
+[10dic2025 21:16:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> a mi me importa la persolaidad
+[10dic2025 21:17:15.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andsharp has made the advancement [Stone Age]
+[10dic2025 21:17:20.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> ah bueno
+[10dic2025 21:17:25.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> vamos progresando
+[10dic2025 21:17:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> el logro de abrir el invertario
+[10dic2025 21:18:54.306] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cinderace'/2114, l='ServerLevel[world]', x=-200.97, y=122.00, z=1056.24, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:19:00.052] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Buneary'/2137, l='ServerLevel[world]', x=-200.05, y=122.00, z=1053.43, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=65} (destroying due to DISCARDED)
+[10dic2025 21:19:06.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Furret'/2142, l='ServerLevel[world]', x=-201.01, y=122.00, z=1056.28, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:19:22.457] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Buizel'/2157, l='ServerLevel[world]', x=-201.26, y=122.00, z=1057.06, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:19:23.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Torchic'/2165, l='ServerLevel[world]', x=-200.91, y=122.00, z=1055.10, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=65} (destroying due to DISCARDED)
+[10dic2025 21:19:24.293] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cinderace'/2182, l='ServerLevel[world]', x=-199.94, y=122.00, z=1054.36, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=65} (destroying due to DISCARDED)
+[10dic2025 21:19:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> si
+[10dic2025 21:19:36.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> solo que o estoy enfocando en el pokemon ahra
+[10dic2025 21:19:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> quiero tner comida
+[10dic2025 21:19:47.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Buneary'/2186, l='ServerLevel[world]', x=-201.24, y=122.00, z=1056.43, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:20:11.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> ah
+[10dic2025 21:20:13.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> hmm
+[10dic2025 21:20:23.691] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Buneary'/2253, l='ServerLevel[world]', x=-201.11, y=122.00, z=1060.29, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:21:26.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> mejor?
+[10dic2025 21:21:48.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> cual?
+[10dic2025 21:22:05.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> ohhhh
+[10dic2025 21:22:12.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> los guerreros guardianos algo asi
+[10dic2025 21:22:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> los que están en la torre
+[10dic2025 21:22:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> ah
+[10dic2025 21:22:30.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> danger no lo ha hecho aun
+[10dic2025 21:24:38.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> aAAAAABUNDAAAAA
+[10dic2025 21:24:48.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/2814, l='ServerLevel[world]', x=-167.59, y=117.00, z=1055.55, removed=DISCARDED] wasn't found in section SectionPos{x=-11, y=7, z=65} (destroying due to DISCARDED)
+[10dic2025 21:24:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> me puse festivo
+[10dic2025 21:27:47.002] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cinderace'/3335, l='ServerLevel[world]', x=-171.85, y=119.00, z=1104.40, removed=DISCARDED] wasn't found in section SectionPos{x=-11, y=7, z=69} (destroying due to DISCARDED)
+[10dic2025 21:28:24.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Eevee'/3326, l='ServerLevel[world]', x=-130.22, y=118.42, z=1083.06, removed=DISCARDED] wasn't found in section SectionPos{x=-9, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 21:28:28.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Vespiquen'/3315, l='ServerLevel[world]', x=-116.50, y=122.01, z=1069.50, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:28:38.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Lurantis'/3312, l='ServerLevel[world]', x=-118.51, y=122.00, z=1071.81, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:29:14.896] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Rarity'/3739, l='ServerLevel[world]', x=-116.70, y=122.00, z=1067.23, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:29:24.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> si
+[10dic2025 21:29:34.841] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Kirlia'/3321, l='ServerLevel[world]', x=-118.68, y=122.00, z=1074.68, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 21:29:39.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Corviknight'/3334, l='ServerLevel[world]', x=-118.55, y=123.00, z=1068.55, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:29:41.336] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Manolo'/3360, l='ServerLevel[world]', x=-116.74, y=122.00, z=1069.48, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:29:49.394] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Kirlia'/3792, l='ServerLevel[world]', x=-114.30, y=122.00, z=1068.63, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:30:13.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> voy a poner losas
+[10dic2025 21:30:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> eh
+[10dic2025 21:30:33.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> en donde te sentaste?
+[10dic2025 21:33:03.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> si tengo
+[10dic2025 21:33:05.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DangerCreeper17 moved wrongly!
+[10dic2025 21:33:12.205] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cinderace'/4285, l='ServerLevel[world]', x=-113.98, y=122.00, z=1074.10, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 21:33:14.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cyclizar'/3817, l='ServerLevel[world]', x=-115.12, y=122.00, z=1072.88, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 21:33:38.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> no tego
+[10dic2025 21:33:54.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> no
+[10dic2025 21:34:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andsharp fell from a high place
+[10dic2025 21:34:52.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Corviknight'/4292, l='ServerLevel[world]', x=-149.30, y=117.00, z=1070.74, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:35:53.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cyclizar'/4713, l='ServerLevel[world]', x=-148.10, y=117.00, z=1071.11, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 21:38:45.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DangerCreeper17 moved wrongly!
+[10dic2025 21:38:48.106] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cyclizar'/4895, l='ServerLevel[world]', x=-156.38, y=120.00, z=1081.45, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 21:38:51.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andsharp> como
+[10dic2025 21:39:12.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4047ms or 80 ticks behind
+[10dic2025 21:42:05.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andsharp moved wrongly!
+[10dic2025 21:42:12.521] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cyclizar'/5490, l='ServerLevel[world]', x=-146.20, y=87.00, z=994.65, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=5, z=62} (destroying due to DISCARDED)
+[10dic2025 21:43:22.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cyclizar'/5800, l='ServerLevel[world]', x=-120.45, y=121.00, z=1093.33, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=68} (destroying due to DISCARDED)
+[10dic2025 21:43:26.228] [Netty Server IO #3/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Andsharp
+[10dic2025 21:43:26.238] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Andsharp
+[10dic2025 21:43:26.239] [Server thread/INFO] [legendarymonuments/]: Player Andsharp disconnected, saving their progress data
+[10dic2025 21:43:26.239] [Netty Server IO #3/INFO] [legendarymonuments/]: Player Andsharp disconnected, saving their progress data
+[10dic2025 21:43:26.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andsharp lost connection: Disconnected
+[10dic2025 21:43:26.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andsharp left the game
+[10dic2025 21:43:30.251] [Server thread/INFO] [AutoModpack/]: Andsharp has installed AutoModpack.
+[10dic2025 21:43:30.266] [Server thread/INFO] [AutoModpack/]: Sending Andsharp modpack host address: :-1
+[10dic2025 21:43:32.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Andsharp (/127.0.0.1:47234) lost connection: Disconnected
+[10dic2025 21:43:37.540] [Server thread/INFO] [AutoModpack/]: Andsharp has installed AutoModpack.
+[10dic2025 21:43:37.544] [Server thread/INFO] [AutoModpack/]: Sending Andsharp modpack host address: :-1
+[10dic2025 21:43:37.840] [Server thread/INFO] [AutoModpack/]: Andsharp has installed whole modpack
+[10dic2025 21:43:42.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andsharp[/127.0.0.1:47243] logged in with entity id 6177 at (-121.41015105992483, 121.0, 1091.237728529013)
+[10dic2025 21:43:42.538] [Server thread/INFO] [legendarymonuments/]: Player Andsharp joined, loading progress data
+[10dic2025 21:43:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andsharp joined the game
+[10dic2025 21:43:42.701] [Server thread/INFO] [mythsandlegends/]: Player Andsharp joined, sending transformation config.
+[10dic2025 21:43:59.870] [Netty Server IO #17/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Andsharp
+[10dic2025 21:43:59.870] [Netty Server IO #17/INFO] [legendarymonuments/]: Player Andsharp disconnected, saving their progress data
+[10dic2025 21:43:59.888] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Andsharp
+[10dic2025 21:43:59.889] [Server thread/INFO] [legendarymonuments/]: Player Andsharp disconnected, saving their progress data
+[10dic2025 21:43:59.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andsharp lost connection: Disconnected
+[10dic2025 21:43:59.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andsharp left the game
+[10dic2025 21:44:04.152] [Server thread/INFO] [AutoModpack/]: Andsharp has installed AutoModpack.
+[10dic2025 21:44:04.153] [Server thread/INFO] [AutoModpack/]: Sending Andsharp modpack host address: :-1
+[10dic2025 21:44:08.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Andsharp (/127.230.98.82:47257) lost connection: Disconnected
+[10dic2025 21:50:22.495] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Cyclizar'/6048, l='ServerLevel[world]', x=-118.19, y=122.00, z=1069.59, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 22:06:47.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/10349, l='ServerLevel[world]', x=-166.48, y=116.94, z=1079.62, removed=DISCARDED] wasn't found in section SectionPos{x=-11, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 22:11:57.336] [Server thread/INFO] [legendarymonuments/]: Player DangerCreeper17 defeated a Pokémon at night, dropping Dream String
+[10dic2025 22:14:46.705] [Server thread/INFO] [AutoModpack/]: Pyre has installed AutoModpack.
+[10dic2025 22:14:46.714] [Server thread/INFO] [AutoModpack/]: Sending Pyre modpack host address: :-1
+[10dic2025 22:14:51.590] [Server thread/INFO] [AutoModpack/]: Pyre has installed whole modpack
+[10dic2025 22:14:59.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pyre[/127.163.208.73:27105] logged in with entity id 12205 at (-203.25923097831657, 122.0, 1055.4332836470005)
+[10dic2025 22:14:59.642] [Server thread/INFO] [legendarymonuments/]: Player Pyre joined, loading progress data
+[10dic2025 22:14:59.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyre joined the game
+[10dic2025 22:14:59.691] [Server thread/INFO] [mythsandlegends/]: Player Pyre joined, sending transformation config.
+[10dic2025 22:15:34.985] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Rarity'/10513, l='ServerLevel[world]', x=-146.94, y=117.00, z=1056.46, removed=DISCARDED] wasn't found in section SectionPos{x=-10, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 22:18:08.983] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Roserade'/12290, l='ServerLevel[world]', x=-96.64, y=125.00, z=1083.73, removed=DISCARDED] wasn't found in section SectionPos{x=-7, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 22:37:39.879] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Dusclops'/17209, l='ServerLevel[world]', x=-116.04, y=122.00, z=1072.13, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=67} (destroying due to DISCARDED)
+[10dic2025 22:38:15.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Dusclops'/17425, l='ServerLevel[world]', x=-116.83, y=122.00, z=1069.70, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 22:38:18.228] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Saitama'/13980, l='ServerLevel[world]', x=-121.31, y=121.00, z=1098.64, removed=DISCARDED] wasn't found in section SectionPos{x=-8, y=7, z=68} (destroying due to DISCARDED)
+[10dic2025 22:41:17.531] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Dusclops'/17728, l='ServerLevel[world]', x=-193.49, y=121.36, z=1059.26, removed=DISCARDED] wasn't found in section SectionPos{x=-13, y=7, z=66} (destroying due to DISCARDED)
+[10dic2025 22:42:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DangerCreeper17 got cut in half by a Mechanical Saw
+[10dic2025 22:44:54.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que
+[10dic2025 22:45:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DangerCreeper17> so
+[10dic2025 22:45:13.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] de donde sacaste una sierra mecanica??
+[10dic2025 22:45:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DangerCreeper17> la craftie
+[10dic2025 22:45:39.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DangerCreeper17> si son re baratas
+[10dic2025 22:49:41.236] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Orthworm'/19038, l='ServerLevel[world]', x=-134.11, y=46.00, z=992.89, removed=DISCARDED] wasn't found in section SectionPos{x=-9, y=2, z=62} (destroying due to DISCARDED)
+[10dic2025 22:52:55.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Dusclops'/21037, l='ServerLevel[world]', x=-223.00, y=-13.00, z=925.51, removed=DISCARDED] wasn't found in section SectionPos{x=-14, y=-1, z=57} (destroying due to DISCARDED)
+[10dic2025 22:56:26.699] [Netty Server IO #7/INFO] [legendarymonuments/]: Triggered save for disconnecting player: DangerCreeper17
+[10dic2025 22:56:26.699] [Netty Server IO #7/INFO] [legendarymonuments/]: Player DangerCreeper17 disconnected, saving their progress data
+[10dic2025 22:56:26.723] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: DangerCreeper17
+[10dic2025 22:56:26.723] [Server thread/INFO] [legendarymonuments/]: Player DangerCreeper17 disconnected, saving their progress data
+[10dic2025 22:56:26.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DangerCreeper17 lost connection: Disconnected
+[10dic2025 22:56:26.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DangerCreeper17 left the game
+[10dic2025 22:56:41.484] [Netty Server IO #3/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Pyre
+[10dic2025 22:56:41.484] [Netty Server IO #3/INFO] [legendarymonuments/]: Player Pyre disconnected, saving their progress data
+[10dic2025 22:56:41.529] [Server thread/INFO] [legendarymonuments/]: Triggered save for disconnecting player: Pyre
+[10dic2025 22:56:41.529] [Server thread/INFO] [legendarymonuments/]: Player Pyre disconnected, saving their progress data
+[10dic2025 22:56:41.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pyre lost connection: Disconnected
+[10dic2025 22:56:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyre left the game
+[10dic2025 23:41:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10dic2025 23:41:39.766] [Server thread/INFO] [legendarymonuments/]: Server stopping, performing final save of all key items data...
+[10dic2025 23:41:39.766] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:overworld
+[10dic2025 23:41:39.766] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_end
+[10dic2025 23:41:39.766] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: minecraft:the_nether
+[10dic2025 23:41:39.767] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:hall_of_origin_world
+[10dic2025 23:41:39.767] [Server thread/INFO] [legendarymonuments/]: Final save triggered for world: legendarymonuments:distortion_world
+[10dic2025 23:41:39.868] [Server thread/INFO] [legendarymonuments/]: Server stopping, saving all player progress data and shutting down trackers
+[10dic2025 23:41:39.868] [Server thread/INFO] [legendarymonuments/]: Shutting down ShrineTracker...
+[10dic2025 23:41:39.870] [Server thread/INFO] [legendarymonuments/]: ShrineTracker shutdown complete
+[10dic2025 23:41:39.871] [Server thread/INFO] [legendarymonuments/]: Shutting down FootprintTracker...
+[10dic2025 23:41:39.874] [Server thread/INFO] [legendarymonuments/]: FootprintTracker shutdown complete
+[10dic2025 23:41:39.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10dic2025 23:41:39.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10dic2025 23:41:39.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10dic2025 23:41:39.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10dic2025 23:41:39.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10dic2025 23:41:39.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10dic2025 23:41:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:hall_of_origin_world
+[10dic2025 23:41:39.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/legendarymonuments:distortion_world
+[10dic2025 23:41:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10dic2025 23:41:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10dic2025 23:41:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10dic2025 23:41:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hall_of_origin_world): All chunks are saved
+[10dic2025 23:41:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (distortion_world): All chunks are saved
+[10dic2025 23:41:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
