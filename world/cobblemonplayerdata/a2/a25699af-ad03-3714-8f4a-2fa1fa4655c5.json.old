@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 68,
+    "totalBattleVictoryCount": 73,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 68,
+    "totalPvWBattleVictoryCount": 73,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -59,7 +59,11 @@
       "cobblemon:furret": 1,
       "cobblemon:klink": 1,
       "cobblemon:pidove": 1,
-      "cobblemon:stonjourner": 1
+      "cobblemon:stonjourner": 1,
+      "cobblemon:salandit": 1,
+      "cobblemon:ekans": 1,
+      "cobblemon:duskull": 2,
+      "cobblemon:toedscruel": 1
     },
     "aspectsCollected": {
       "cobblemon:houndour": [

@@ -192,6 +192,7 @@
       "minecraft:skeleton": "2025-11-12 21:54:56 -0500",
       "minecraft:phantom": "2025-12-09 20:52:11 -0500",
       "minecraft:witch": "2025-11-17 16:58:28 -0500",
+      "minecraft:ghast": "2025-12-11 15:23:32 -0500",
       "minecraft:hoglin": "2025-12-06 17:54:04 -0500",
       "minecraft:breeze": "2025-12-06 21:58:54 -0500",
       "minecraft:enderman": "2025-11-12 22:16:15 -0500",
@@ -600,12 +601,16 @@
     "criteria": {
       "obtain_nanab_berry": "2025-11-13 00:26:50 -0500",
       "obtain_lum_berry": "2025-11-17 11:31:44 -0500",
+      "obtain_coba_berry": "2025-12-11 14:35:39 -0500",
       "obtain_pinap_berry": "2025-11-16 21:33:36 -0500",
       "obtain_oran_berry": "2025-11-12 23:27:09 -0500",
       "obtain_charti_berry": "2025-11-17 11:23:45 -0500",
+      "obtain_yache_berry": "2025-12-11 14:36:09 -0500",
       "obtain_chilan_berry": "2025-11-12 23:36:00 -0500",
       "obtain_leppa_berry": "2025-11-17 11:37:22 -0500",
+      "obtain_babiri_berry": "2025-12-11 13:02:21 -0500",
       "obtain_persim_berry": "2025-11-12 21:40:08 -0500",
+      "obtain_passho_berry": "2025-12-11 19:41:36 -0500",
       "obtain_rindo_berry": "2025-11-17 13:10:24 -0500",
       "obtain_cheri_berry": "2025-11-16 21:33:49 -0500",
       "obtain_occa_berry": "2025-11-29 20:23:33 -0500",
@@ -614,6 +619,7 @@
       "obtain_aspear_berry": "2025-11-17 13:36:12 -0500",
       "obtain_chesto_berry": "2025-11-16 21:33:40 -0500",
       "obtain_pecha_berry": "2025-11-16 20:57:46 -0500",
+      "obtain_razz_berry": "2025-12-11 14:35:47 -0500",
       "obtain_wepear_berry": "2025-11-14 20:10:10 -0500"
     },
     "done": false
@@ -7488,21 +7494,375 @@
     },
     "done": true
   },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2025-12-10 22:38:27 -0500"
-    },
-    "done": true
-  },
   "cobblemon:recipes/held/choice_scarf": {
     "criteria": {
       "has_scarf": "2025-12-10 22:07:28 -0500"
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-12-10 22:38:27 -0500"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-12-10 22:38:32 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-12-11 12:55:42 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/babiri_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 13:02:21 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/saccharine_wood": {
+    "criteria": {
+      "has_log": "2025-12-11 13:04:46 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/saccharine_planks": {
+    "criteria": {
+      "has_saccharine_log": "2025-12-11 13:04:46 -0500"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-12-11 13:09:15 -0500"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-12-11 13:09:15 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/chilan_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 14:35:37 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/coba_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 14:35:39 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/razz_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 14:35:47 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/assault_vest": {
+    "criteria": {
+      "has_protector": "2025-12-11 14:36:00 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/yache_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 14:36:09 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/dragon_fang": {
+    "criteria": {
+      "has_gem": "2025-12-11 14:36:24 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/fairy_feather": {
+    "criteria": {
+      "has_gem": "2025-12-11 14:36:25 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/suspicious_stew_from_azure_bluet_in_campfire_pot": {
+    "criteria": {
+      "has_azure_bluet": "2025-12-11 14:42:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-12-11 15:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-12-11 15:32:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:38:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-12-11 15:39:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-12-11 15:39:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-11 15:39:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-12-11 15:49:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-12-11 15:49:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-12-11 15:49:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-11 16:00:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-11 16:00:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-11 16:00:07 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/magmarizer": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-11 16:00:07 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/focus_band": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-11 16:00:07 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/focus_sash": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-11 16:00:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-12-11 16:23:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-12-11 18:26:25 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/passho_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 19:41:36 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/persim_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 19:41:38 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/kebia_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 19:57:22 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2025-12-11 19:37:47 -0500"
     },
     "done": true
   },
