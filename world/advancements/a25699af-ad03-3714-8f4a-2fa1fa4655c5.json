@@ -397,13 +397,15 @@
       "cooked_porkchop": "2025-11-16 18:47:57 -0500",
       "mutton": "2025-11-16 16:34:49 -0500",
       "bread": "2025-11-16 21:23:03 -0500",
-      "cooked_chicken": "2025-11-16 16:14:46 -0500",
+      "golden_apple": "2025-12-12 19:37:06 -0500",
       "honey_bottle": "2025-11-16 17:10:48 -0500",
       "cooked_mutton": "2025-11-16 16:43:11 -0500",
       "cooked_beef": "2025-11-16 17:21:18 -0500",
       "baked_potato": "2025-11-16 19:38:51 -0500",
       "melon_slice": "2025-11-16 17:00:48 -0500",
       "porkchop": "2025-12-11 15:15:50 -0500",
+      "cooked_rabbit": "2025-12-12 19:46:34 -0500",
+      "cooked_chicken": "2025-11-16 16:14:46 -0500",
       "carrot": "2025-12-09 20:24:17 -0500"
     },
     "done": false
@@ -472,7 +474,9 @@
       "minecraft:skeleton": "2025-11-16 17:49:29 -0500",
       "minecraft:piglin": "2025-12-09 20:55:40 -0500",
       "minecraft:enderman": "2025-12-11 15:09:39 -0500",
+      "minecraft:magma_cube": "2025-12-12 20:46:33 -0500",
       "minecraft:spider": "2025-11-16 17:00:38 -0500",
+      "minecraft:piglin_brute": "2025-12-12 20:28:45 -0500",
       "minecraft:zombie": "2025-11-16 16:18:06 -0500",
       "minecraft:creeper": "2025-11-16 16:18:36 -0500",
       "minecraft:drowned": "2025-11-16 21:07:27 -0500",
@@ -3758,21 +3762,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
+      "avoid_vibration": "2025-12-11 13:51:46 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/n_solarizer": {
+    "criteria": {
+      "has_sunstone": "2025-12-11 13:55:47 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/sun_stone_block": {
+    "criteria": {
+      "has_sun_stone": "2025-12-11 13:55:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-12-11 14:32:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-12-11 14:32:02 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/kasib_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-11 14:39:22 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/fire_stone_block": {
+    "criteria": {
+      "has_fire_stone": "2025-12-11 14:43:10 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heat_rock": {
+    "criteria": {
+      "has_stone": "2025-12-11 14:43:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-12-11 14:49:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-12-11 14:49:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-12-11 14:49:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-12-11 14:49:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-12-11 14:49:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-12-11 14:49:02 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/mushroom_stew_in_campfire_pot": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/apricorn_bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-12-11 14:54:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-12-11 14:54:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/botanist_workbench": {
+    "criteria": {
+      "has_botanist_workbench": "2025-12-11 14:54:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-12-11 14:54:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/glassblower": {
+    "criteria": {
+      "has_glassblower": "2025-12-11 14:54:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/tinkering_table": {
+    "criteria": {
+      "has_tinkering_table": "2025-12-11 14:54:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/loom_table": {
+    "criteria": {
+      "has_loom_table": "2025-12-11 14:54:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/mason_table": {
+    "criteria": {
+      "has_mason_table": "2025-12-11 14:54:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/alchemy_bench": {
+    "criteria": {
+      "has_alchemy_bench": "2025-12-11 14:54:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-12-11 15:07:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-12-11 15:07:47 -0500"
     },
     "done": true
   },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-12-11 15:12:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-12-11 15:21:13 -0500"
     },
     "done": true
   },
@@ -3794,63 +3960,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-12-11 14:54:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-12-11 14:32:02 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-12-11 15:12:45 -0500"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/mushroom_stew_in_campfire_pot": {
-    "criteria": {
-      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-12-11 15:07:47 -0500"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/n_solarizer": {
-    "criteria": {
-      "has_sunstone": "2025-12-11 13:55:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
@@ -3860,57 +3972,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/workbench/botanist_workbench": {
-    "criteria": {
-      "has_botanist_workbench": "2025-12-11 14:54:58 -0500"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/fire_stone_block": {
-    "criteria": {
-      "has_fire_stone": "2025-12-11 14:43:10 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-12-11 14:49:02 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-12-11 15:12:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-12-11 14:49:02 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/workbench/carpenters_table": {
-    "criteria": {
-      "has_carpenters_table": "2025-12-11 14:54:58 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-12-11 14:49:02 -0500"
     },
     "done": true
   },
@@ -3920,51 +3984,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_basalt": "2025-12-11 15:21:26 -0500"
+      "has_planks": "2025-12-11 15:12:45 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "has_quartz": "2025-12-11 14:49:02 -0500"
+      "has_planks": "2025-12-11 15:12:45 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
+      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
-      "has_logs": "2025-12-11 15:07:47 -0500"
+      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/workbench/glassblower": {
-    "criteria": {
-      "has_glassblower": "2025-12-11 14:54:58 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-12-11 15:19:09 -0500"
+      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
     },
     "done": true
   },
@@ -3980,69 +4026,69 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/apricorn_bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-12-11 15:21:26 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/workbench/tinkering_table": {
-    "criteria": {
-      "has_tinkering_table": "2025-12-11 14:54:58 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
-      "has_gold_nugget": "2025-12-11 14:32:02 -0500"
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
-  "cobblemon:recipes/blocks/sun_stone_block": {
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_sun_stone": "2025-12-11 13:55:47 -0500"
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/kasib_berry_smelt_to_dye": {
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
-      "has_berry": "2025-12-11 14:39:22 -0500"
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/workbench/loom_table": {
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_loom_table": "2025-12-11 14:54:58 -0500"
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/workbench/mason_table": {
+  "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
-      "has_mason_table": "2025-12-11 14:54:58 -0500"
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-11 15:19:09 -0500"
     },
     "done": true
   },
@@ -4058,27 +4104,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-12-11 14:49:02 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-12-11 14:49:02 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-12-11 15:19:09 -0500"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/heat_rock": {
-    "criteria": {
-      "has_stone": "2025-12-11 14:43:10 -0500"
     },
     "done": true
   },
@@ -4088,45 +4116,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-12-11 15:12:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-12-11 15:19:08 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-12-11 14:54:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-12-11 15:19:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-12-11 13:51:46 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-12-11 15:21:26 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/workbench/alchemy_bench": {
-    "criteria": {
-      "has_alchemy_bench": "2025-12-11 14:54:58 -0500"
     },
     "done": true
   },
@@ -4142,21 +4134,220 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-12-11 15:12:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-12-11 14:52:10 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-12-11 15:19:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-12-11 15:21:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-12-11 15:21:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-12-11 15:21:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-12-11 15:21:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-12-12 19:22:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-12-12 19:22:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-12-12 19:23:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-12-12 19:23:18 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/medicinal_brew_in_campfire_pot": {
+    "criteria": {
+      "has_bottle": "2025-12-12 19:23:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-12-12 19:23:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/rabbit_stew_from_brown_mushroom_in_campfire_pot": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-12-12 19:23:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-12-12 19:23:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/rabbit_stew_from_red_mushroom_in_campfire_pot": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-12-12 19:23:53 -0500",
+      "has_original_recipe": "2025-12-12 19:23:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-12 19:44:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-12-12 20:46:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/douse_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/burn_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/chill_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-12-12 20:44:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-12-12 20:46:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-12-12 20:46:21 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/binding_band": {
+    "criteria": {
+      "has_string": "2025-12-12 20:23:34 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/shock_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/lava_cookie": {
+    "criteria": {
+      "has_magma": "2025-12-12 20:46:18 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
     },
     "done": true
   },
