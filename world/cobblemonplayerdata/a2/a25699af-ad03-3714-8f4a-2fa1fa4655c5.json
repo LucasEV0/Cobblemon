@@ -8,22 +8,22 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 49,
+    "totalCaptureCount": 54,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 83,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 102,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 83,
+    "totalPvWBattleVictoryCount": 102,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 1,
+    "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "dark": 1,
-      "fire": 4,
+      "fire": 8,
       "water": 4,
       "bug": 6,
-      "poison": 7,
+      "poison": 9,
       "grass": 7,
       "electric": 4,
       "normal": 14,
@@ -31,7 +31,7 @@
       "ground": 2,
       "fairy": 3,
       "steel": 2,
-      "ghost": 5,
+      "ghost": 8,
       "psychic": 2,
       "fighting": 3,
       "rock": 1,
@@ -43,14 +43,14 @@
       "cobblemon:cottonee": 1,
       "cobblemon:oricorio": 1,
       "cobblemon:deerling": 1,
-      "cobblemon:patrat": 2,
+      "cobblemon:patrat": 3,
       "cobblemon:combee": 1,
       "cobblemon:cufant": 1,
       "cobblemon:darumaka": 1,
-      "cobblemon:ledyba": 1,
+      "cobblemon:ledyba": 3,
       "cobblemon:bouffalant": 1,
       "cobblemon:wattrel": 1,
-      "cobblemon:rattata": 1,
+      "cobblemon:rattata": 2,
       "cobblemon:lechonk": 1,
       "cobblemon:tentacruel": 1,
       "cobblemon:mareep": 1,
@@ -62,12 +62,19 @@
       "cobblemon:klink": 1,
       "cobblemon:pidove": 1,
       "cobblemon:stonjourner": 1,
-      "cobblemon:salandit": 1,
+      "cobblemon:salandit": 3,
       "cobblemon:ekans": 1,
       "cobblemon:duskull": 2,
       "cobblemon:toedscruel": 1,
       "cobblemon:lapras": 1,
-      "cobblemon:qwilfish": 1
+      "cobblemon:qwilfish": 1,
+      "cobblemon:charmeleon": 1,
+      "cobblemon:pidgey": 1,
+      "cobblemon:wooloo": 2,
+      "cobblemon:butterfree": 1,
+      "cobblemon:linoone": 1,
+      "cobblemon:yungoos": 1,
+      "cobblemon:hoppip": 1
     },
     "aspectsCollected": {
       "cobblemon:houndour": [
@@ -155,7 +162,8 @@
         "male"
       ],
       "cobblemon:rapidash": [
-        "female"
+        "female",
+        "galarian"
       ],
       "cobblemon:sawsbuck": [
         "male",
@@ -217,6 +225,25 @@
       "cobblemon:sneasel": [
         "female",
         "hisuian"
+      ],
+      "cobblemon:haunter": [
+        "male"
+      ],
+      "cobblemon:salandit": [
+        "female"
+      ],
+      "cobblemon:litwick": [
+        "male"
+      ],
+      "cobblemon:marowak": [
+        "female",
+        "alolan"
+      ],
+      "cobblemon:charmander": [
+        "male"
+      ],
+      "cobblemon:typhlosion": [
+        "female"
       ]
     }
   }
