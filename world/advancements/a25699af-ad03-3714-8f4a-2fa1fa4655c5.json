@@ -17,6 +17,7 @@
       "minecraft:eroded_badlands": "2025-11-16 18:45:17 -0500",
       "minecraft:desert": "2025-11-16 18:37:35 -0500",
       "minecraft:frozen_river": "2025-11-16 18:52:11 -0500",
+      "minecraft:deep_frozen_ocean": "2025-12-13 22:17:13 -0500",
       "minecraft:jungle": "2025-11-16 16:04:27 -0500",
       "minecraft:ocean": "2025-11-16 20:56:39 -0500",
       "minecraft:cherry_grove": "2025-11-16 16:09:37 -0500",
@@ -34,6 +35,7 @@
       "minecraft:savanna_plateau": "2025-11-16 18:46:12 -0500",
       "minecraft:beach": "2025-11-16 16:04:36 -0500",
       "minecraft:dark_forest": "2025-11-16 19:11:23 -0500",
+      "minecraft:stony_peaks": "2025-12-13 23:18:02 -0500",
       "minecraft:sparse_jungle": "2025-11-16 16:53:24 -0500",
       "minecraft:river": "2025-11-16 16:04:51 -0500",
       "minecraft:lukewarm_ocean": "2025-11-16 18:35:59 -0500",
@@ -429,7 +431,8 @@
       "poke_ball": "2025-11-16 16:40:26 -0500",
       "premier_ball": "2025-11-16 17:26:33 -0500",
       "azure_ball": "2025-11-16 16:40:26 -0500",
-      "verdant_ball": "2025-11-17 18:41:47 -0500"
+      "verdant_ball": "2025-11-17 18:41:47 -0500",
+      "ultra_ball": "2025-12-13 22:12:43 -0500"
     },
     "done": false
   },
@@ -472,6 +475,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-11-16 17:49:29 -0500",
+      "minecraft:phantom": "2025-12-13 23:19:00 -0500",
+      "minecraft:ghast": "2025-12-09 20:56:17 -0500",
+      "minecraft:hoglin": "2025-11-18 13:31:20 -0500",
       "minecraft:piglin": "2025-12-09 20:55:40 -0500",
       "minecraft:enderman": "2025-12-11 15:09:39 -0500",
       "minecraft:magma_cube": "2025-12-12 20:46:33 -0500",
@@ -480,9 +486,7 @@
       "minecraft:zombie": "2025-11-16 16:18:06 -0500",
       "minecraft:creeper": "2025-11-16 16:18:36 -0500",
       "minecraft:drowned": "2025-11-16 21:07:27 -0500",
-      "minecraft:zombie_villager": "2025-11-16 20:37:02 -0500",
-      "minecraft:ghast": "2025-12-09 20:56:17 -0500",
-      "minecraft:hoglin": "2025-11-18 13:31:20 -0500"
+      "minecraft:zombie_villager": "2025-11-16 20:37:02 -0500"
     },
     "done": false
   },
@@ -4225,12 +4229,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-12-12 20:46:23 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-12-12 20:21:05 -0500"
@@ -4240,18 +4238,6 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-12-12 20:21:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/douse_drive": {
-    "criteria": {
-      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
     },
     "done": true
   },
@@ -4267,33 +4253,9 @@
     },
     "done": true
   },
-  "mega_showdown:recipes/misc/burn_drive": {
-    "criteria": {
-      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/chill_drive": {
-    "criteria": {
-      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_treasure": "2025-12-12 20:44:59 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-12-12 20:21:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-12-12 20:46:18 -0500"
     },
     "done": true
   },
@@ -4315,9 +4277,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-12-12 20:46:21 -0500"
+      "has_planks": "2025-12-12 20:21:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-12 20:21:05 -0500"
     },
     "done": true
   },
@@ -4327,15 +4295,15 @@
     },
     "done": true
   },
-  "mega_showdown:recipes/misc/shock_drive": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+      "loot_bastion_treasure": "2025-12-12 20:44:59 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_planks": "2025-12-12 20:21:05 -0500"
+      "has_magma_cream": "2025-12-12 20:46:18 -0500"
     },
     "done": true
   },
@@ -4345,9 +4313,423 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_planks": "2025-12-12 20:21:05 -0500"
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/douse_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/burn_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/chill_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/shock_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 20:46:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-12-12 20:46:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-12-12 20:46:23 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-12-13 22:13:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-12-13 22:24:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-12-13 22:25:08 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-12-13 22:55:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-12-13 22:37:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-12-13 22:37:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-12-13 22:35:37 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/open_faced_sandwich": {
+    "criteria": {
+      "has_bread": "2025-12-13 22:32:45 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/air_balloon": {
+    "criteria": {
+      "has_membrane": "2025-12-13 23:19:10 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/black_aprijuice": {
+    "criteria": {
+      "has_apricorn": "2025-12-13 22:11:30 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-12-13 21:54:05 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2025-12-13 22:43:54 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/dawn_stone_block": {
+    "criteria": {
+      "has_dawn_stone": "2025-12-13 23:19:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-12-13 22:55:45 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2025-12-13 22:13:10 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/ultra_rod": {
+    "criteria": {
+      "has_ball": "2025-12-13 22:12:43 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_burn_heal": "2025-12-13 22:43:54 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-12-13 21:54:05 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/fine_remedy": {
+    "criteria": {
+      "has_remedy": "2025-12-13 22:43:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-12-13 21:54:05 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2025-12-13 23:19:10 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-13 23:05:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-12-13 22:35:37 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/campfire_pot_black": {
+    "criteria": {
+      "has_black_apricorn": "2025-12-13 22:11:30 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2025-12-13 23:19:10 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:54:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-12-13 22:55:45 -0500"
     },
     "done": true
   },

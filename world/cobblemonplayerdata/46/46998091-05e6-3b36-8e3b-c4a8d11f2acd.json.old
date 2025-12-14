@@ -8,40 +8,40 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 42,
+    "totalCaptureCount": 45,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 14,
-    "totalBattleVictoryCount": 154,
+    "totalBattleVictoryCount": 168,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 152,
+    "totalPvWBattleVictoryCount": 166,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 7,
     "totalTypeCaptureCounts": {
-      "water": 1,
+      "water": 2,
       "grass": 6,
       "ground": 3,
       "flying": 5,
-      "bug": 6,
+      "bug": 7,
       "fighting": 2,
       "psychic": 6,
-      "normal": 8,
-      "poison": 2,
+      "normal": 9,
+      "poison": 3,
       "ghost": 4,
       "rock": 2,
       "steel": 2,
       "fire": 6,
       "fairy": 3,
-      "electric": 2,
+      "electric": 3,
       "dragon": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:rhyhorn": 1,
-      "cobblemon:butterfree": 5,
+      "cobblemon:butterfree": 6,
       "cobblemon:weedle": 1,
       "cobblemon:purrloin": 2,
-      "cobblemon:sentret": 2,
+      "cobblemon:sentret": 3,
       "cobblemon:minior": 2,
       "cobblemon:zoroark": 1,
       "cobblemon:mudsdale": 1,
@@ -51,8 +51,8 @@
       "cobblemon:nickit": 3,
       "cobblemon:bunnelby": 1,
       "cobblemon:zigzagoon": 1,
-      "cobblemon:liepard": 1,
-      "cobblemon:bouffalant": 23,
+      "cobblemon:liepard": 2,
+      "cobblemon:bouffalant": 26,
       "cobblemon:miltank": 13,
       "cobblemon:nuzleaf": 1,
       "cobblemon:rattata": 3,
@@ -77,16 +77,18 @@
       "cobblemon:cottonee": 2,
       "cobblemon:sewaddle": 1,
       "cobblemon:lurantis": 1,
-      "cobblemon:flaaffy": 1,
+      "cobblemon:flaaffy": 3,
       "cobblemon:mudbray": 1,
       "cobblemon:larvesta": 1,
       "cobblemon:linoone": 1,
       "cobblemon:torkoal": 1,
       "cobblemon:gumshoos": 1,
       "cobblemon:poliwag": 1,
-      "cobblemon:rapidash": 1,
+      "cobblemon:rapidash": 2,
       "cobblemon:taillow": 1,
-      "cobblemon:capsakid": 1
+      "cobblemon:capsakid": 1,
+      "cobblemon:pidgey": 1,
+      "cobblemon:ledian": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -265,6 +267,15 @@
       ],
       "cobblemon:gardevoir": [
         "female"
+      ],
+      "cobblemon:audino": [
+        "male"
+      ],
+      "cobblemon:mareanie": [
+        "male"
+      ],
+      "cobblemon:galvantula": [
+        "male"
       ]
     }
   }

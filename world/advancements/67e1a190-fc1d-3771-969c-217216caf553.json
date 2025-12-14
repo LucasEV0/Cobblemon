@@ -2304,5 +2304,155 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-12-13 19:25:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/cleanse_tag": {
+    "criteria": {
+      "has_paper": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/weakness_policy": {
+    "criteria": {
+      "has_paper": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-12-13 19:26:14 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/red_card": {
+    "criteria": {
+      "has_paper": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/suspicious_stew_from_poppy_in_campfire_pot": {
+    "criteria": {
+      "has_poppy": "2025-12-13 19:25:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-12-13 19:26:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 19:26:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/blunder_policy": {
+    "criteria": {
+      "has_paper": "2025-12-13 19:26:49 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

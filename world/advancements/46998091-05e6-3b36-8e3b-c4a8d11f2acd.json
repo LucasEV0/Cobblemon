@@ -604,6 +604,7 @@
       "obtain_coba_berry": "2025-12-11 14:35:39 -0500",
       "obtain_pinap_berry": "2025-11-16 21:33:36 -0500",
       "obtain_oran_berry": "2025-11-12 23:27:09 -0500",
+      "obtain_bluk_berry": "2025-12-13 20:53:22 -0500",
       "obtain_charti_berry": "2025-11-17 11:23:45 -0500",
       "obtain_yache_berry": "2025-12-11 14:36:09 -0500",
       "obtain_chilan_berry": "2025-11-12 23:36:00 -0500",
@@ -7842,6 +7843,12 @@
     },
     "done": true
   },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2025-12-11 19:37:47 -0500"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/passho_berry_smelt_to_dye": {
     "criteria": {
       "has_berry": "2025-12-11 19:41:36 -0500"
@@ -7860,9 +7867,435 @@
     },
     "done": true
   },
-  "cobblemon:first_shiny_catch": {
+  "immersive_paintings:misc/graffiti": {
     "criteria": {
-      "catch": "2025-12-11 19:37:47 -0500"
+      "has_item": "2025-12-13 19:31:45 -0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-12-13 20:06:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-12-13 20:07:09 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/bluk_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2025-12-13 20:53:22 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-12-13 21:13:39 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:place_campfire_pot": {
+    "criteria": {
+      "place_pot": "2025-12-13 21:19:56 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-12-13 21:27:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/exp_candy_s": {
+    "criteria": {
+      "has_candy": "2025-12-13 22:32:46 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-12-13 22:50:58 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-12-13 23:05:45 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-12-13 22:51:16 -0500"
     },
     "done": true
   },
