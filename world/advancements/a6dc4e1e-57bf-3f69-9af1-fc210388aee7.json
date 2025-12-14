@@ -161,12 +161,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/soft_sand": {
-    "criteria": {
-      "has_sand": "2025-11-12 23:17:21 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-11-12 23:17:21 -0300"
@@ -755,18 +749,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/remedy_by_smoking": {
-    "criteria": {
-      "has_root": "2025-11-12 23:53:49 -0300"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/remedy_by_campfire": {
-    "criteria": {
-      "has_root": "2025-11-12 23:53:49 -0300"
-    },
-    "done": true
-  },
   "cobblemon:obtain_big_root": {
     "criteria": {
       "check_inv": "2025-11-12 23:53:49 -0300"
@@ -1128,12 +1110,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/silk_scarf": {
-    "criteria": {
-      "has_wool": "2025-11-13 00:15:36 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-11-13 00:15:36 -0300"
@@ -1424,19 +1400,7 @@
     },
     "done": true
   },
-  "adorn:recipes/cobblemon/apricorn_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-11-13 00:29:06 -0300"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/apricorn_slab": {
-    "criteria": {
-      "has_planks": "2025-11-13 00:29:06 -0300"
-    },
-    "done": true
-  },
-  "adorn:recipes/cobblemon/apricorn_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2025-11-13 00:29:06 -0300"
     },
@@ -1472,12 +1436,6 @@
     },
     "done": true
   },
-  "adorn:recipes/cobblemon/apricorn_post": {
-    "criteria": {
-      "has_apricorn_planks": "2025-11-13 00:29:06 -0300"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/apricorn_fence_gate": {
     "criteria": {
       "has_planks": "2025-11-13 00:29:06 -0300"
@@ -1485,12 +1443,6 @@
     "done": true
   },
   "cobblemon:recipes/blocks/apricorn_door": {
-    "criteria": {
-      "has_planks": "2025-11-13 00:29:06 -0300"
-    },
-    "done": true
-  },
-  "adorn:recipes/cobblemon/apricorn_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-11-13 00:29:06 -0300"
     },
